@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'quake injures',en,Impacts,#ffff00,#ffff00,2,0.5
 'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,2,0.4943674916666666
 'earthquake early warning',en,Adaptation,#0000ff,#0000ff,2,0.4845006599999999
-'earthquake',en,Hazard,#ff0000,#ff0000,3,0.466692175
+'earthquake',en,Hazard,#ff0000,#ff0000,3,0.1
 'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.466692175
 'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.425000165
 'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.4250001499999999
