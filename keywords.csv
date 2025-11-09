@@ -9,5 +9,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake early warning',en,Adaptation,#0000ff,#0000ff,2,0.4465095393333332
 'earthquake disaster',en,Hazard,#ff0000,#ff0000,3,0.4435499586590908
 'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.425000165
-'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.4250001499999999
+'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.3959336108333332
 'earthquake',en,Hazard,#ff0000,#ff0000,3,0.1
