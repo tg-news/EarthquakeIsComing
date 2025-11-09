@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake tectonic',en,Causes,#00ffff,#00ffff,2,0.447462310516129
 'earthquake early warning',en,Adaptation,#0000ff,#0000ff,2,0.4465095393333332
 'earthquake disaster',en,Hazard,#ff0000,#ff0000,3,0.4435499586590908
-'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,2,0.43124652624999993
-'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.425000165
+'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,2,0.4312465262499999
 'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.3959336108333332
+'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.39275029024999997
 'earthquake',en,Hazard,#ff0000,#ff0000,3,0.1
