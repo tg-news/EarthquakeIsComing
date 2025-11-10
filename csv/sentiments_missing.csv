@@ -3,173 +3,189 @@ Monday,Monday,DATE,,,en,33
 6.3,6.3,CARDINAL,,,en,24
 at least 20,at least 20,CARDINAL,,,en,23
 6.1,6.1,CARDINAL,,,en,15
+Friday,Friday,DATE,,,en,13
 20,20,CARDINAL,,,en,12
-Friday,Friday,DATE,,,en,12
 Tuesday,Tuesday,DATE,,,en,11
 hundreds,hundreds,CARDINAL,,,en,10
 Blue Mosque,Blue Mosque,FAC,,,en,9
 Afghan,Afghan,NORP,-0.13229166666666667,0.6395833333333334,en,9
-at least seven,at least seven,CARDINAL,,,en,8
-morning,morning,TIME,,,en,8
 7.6,7.6,CARDINAL,,,en,8
+morning,morning,TIME,,,en,8
 just months,just months,DATE,,,en,8
+at least seven,at least seven,CARDINAL,,,en,8
 3.5,3.5,CARDINAL,,,en,7
-early Monday,early Monday,DATE,,,en,6
+two,two,CARDINAL,,,en,6
 7.4,7.4,CARDINAL,,,en,6
+early Monday,early Monday,DATE,,,en,6
 4.3,4.3,CARDINAL,,,en,6
 one,one,CARDINAL,,,en,6
-two months,two months,DATE,,,en,5
-Philippine,Philippine,NORP,,,en,5
-about 150,about 150,CARDINAL,,,en,5
 2025,2025,DATE,,,en,5
-two,two,CARDINAL,,,en,5
-Sunday,Sunday,DATE,,,en,5
+Philippine,Philippine,NORP,,,en,5
 3.6,3.6,CARDINAL,,,en,5
-more than 640,more than 640,CARDINAL,,,en,4
-Two,Two,CARDINAL,,,en,4
-3.7,3.7,CARDINAL,,,en,4
-winter,winter,DATE,,,en,4
-4.0,4.0,CARDINAL,,,en,4
+two months,two months,DATE,,,en,5
+Sunday,Sunday,DATE,,,en,5
+about 150,about 150,CARDINAL,,,en,5
 6.0,6.0,CARDINAL,,,en,4
-Asian,Asian,NORP,,,en,4
+3.7,3.7,CARDINAL,,,en,4
+Two,Two,CARDINAL,,,en,4
+winter,winter,DATE,,,en,4
+more than 640,more than 640,CARDINAL,,,en,4
+4.0,4.0,CARDINAL,,,en,4
 10km,10km,QUANTITY,,,en,4
-more than 500,more than 500,CARDINAL,,,en,3
-Izmir,Izmir,NORP,,,en,3
-26,26,CARDINAL,,,en,3
-about 320,about 320,CARDINAL,,,en,3
-Indian,Indian,NORP,,,en,3
-Thursday,Thursday,DATE,,,en,3
-4.9,4.9,CARDINAL,,,en,3
-3.2,3.2,CARDINAL,,,en,3
-17 miles,17 miles,QUANTITY,,,en,3
-The Blue Mosque,The Blue Mosque,FAC,,,en,3
-Turkiye,Turkiye,NORP,,,en,3
-6.3 magnitude,6.3 magnitude,QUANTITY,,,en,3
-at least three,at least three,CARDINAL,,,en,3
-night,night,TIME,,,en,3
-4.7,4.7,CARDINAL,,,en,3
-more than 20,more than 20,CARDINAL,,,en,3
-"almost 1,000","almost 1,000",CARDINAL,,,en,3
-thousands,thousands,CARDINAL,,,en,3
+Asian,Asian,NORP,,,en,4
 magnitude-6.4,magnitude-6.4,DATE,,,en,3
 At least seven,At least seven,CARDINAL,,,en,3
+4.7,4.7,CARDINAL,,,en,3
+about 320,about 320,CARDINAL,,,en,3
 4.6,4.6,CARDINAL,,,en,3
+Thursday,Thursday,DATE,,,en,3
+26,26,CARDINAL,,,en,3
+more than 500,more than 500,CARDINAL,,,en,3
+4.9,4.9,CARDINAL,,,en,3
+3.2,3.2,CARDINAL,,,en,3
+Indian,Indian,NORP,,,en,3
+6.3 magnitude,6.3 magnitude,QUANTITY,,,en,3
 first,first,ORDINAL,,,en,3
-nearly a thousand,nearly a thousand,CARDINAL,,,en,2
+The Blue Mosque,The Blue Mosque,FAC,,,en,3
+Turkiye,Turkiye,NORP,,,en,3
+Izmir,Izmir,NORP,,,en,3
+17 miles,17 miles,QUANTITY,,,en,3
+"almost 1,000","almost 1,000",CARDINAL,,,en,3
+more than 20,more than 20,CARDINAL,,,en,3
+at least three,at least three,CARDINAL,,,en,3
+thousands,thousands,CARDINAL,,,en,3
+night,night,TIME,,,en,3
+Nov 2,Nov 2,DATE,,,en,2
+at least nine,at least nine,CARDINAL,,,en,2
+Hurricane Melissa,Hurricane Melissa,EVENT,,,en,2
+Hindu,Hindu,NORP,,,en,2
+overnight,overnight,TIME,,,en,2
+Blue Temple,Blue Temple,FAC,,,en,2
 Hundreds,Hundreds,CARDINAL,,,en,2
 300,300,CARDINAL,,,en,2
+3.4,3.4,CARDINAL,,,en,2
+nearly a thousand,nearly a thousand,CARDINAL,,,en,2
 "700,000","700,000",CARDINAL,,,en,2
-early Sunday morning,early Sunday morning,TIME,,,en,2
-at least nine,at least nine,CARDINAL,,,en,2
-October 16,October 16,DATE,,,en,2
-Wednesday,Wednesday,DATE,,,en,2
-10:16 a.m.,10:16 a.m.,TIME,,,en,2
 March morning,March morning,TIME,,,en,2
-2021,2021,DATE,,,en,2
-3 million,3 million,CARDINAL,,,en,2
-Monday night,Monday night,TIME,,,en,2
-Malaysian,Malaysian,NORP,,,en,2
-7.7,7.7,CARDINAL,,,en,2
-Hum,Hum,WORK_OF_ART,,,en,2
-28km,28km,QUANTITY,,,en,2
-Nov 3,Nov 3,DATE,,,en,2
-the Tokyo Gap-Financing Market,the Tokyo Gap-Financing Market,EVENT,,,en,2
-evening,evening,TIME,,,en,2
-late August,late August,DATE,,,en,2
-Hindu,Hindu,NORP,,,en,2
-late Monday evening,late Monday evening,TIME,,,en,2
 Last year,Last year,DATE,,,en,2
+late August,late August,DATE,,,en,2
+7.7,7.7,CARDINAL,,,en,2
+the Tokyo Gap-Financing Market,the Tokyo Gap-Financing Market,EVENT,,,en,2
+the early hours,the early hours,TIME,,,en,2
 magnitude-6.3,magnitude-6.3,FAC,,,en,2
 months,months,DATE,,,en,2
-Nov 2,Nov 2,DATE,,,en,2
+Monday night,Monday night,TIME,,,en,2
+early Sunday morning,early Sunday morning,TIME,,,en,2
+Hum,Hum,WORK_OF_ART,,,en,2
 28 kilometers,28 kilometers,QUANTITY,,,en,2
-Blue Temple,Blue Temple,FAC,,,en,2
+evening,evening,TIME,,,en,2
 6.5,6.5,CARDINAL,,,en,2
-the early hours,the early hours,TIME,,,en,2
-overnight,overnight,TIME,,,en,2
-Hurricane Melissa,Hurricane Melissa,EVENT,,,en,2
-10,10,CARDINAL,,,en,2
-2.9,2.9,CARDINAL,,,en,2
-early Monday morning,early Monday morning,TIME,,,en,2
-Today,Today,DATE,,,en,2
-at least 66,at least 66,CARDINAL,,,en,2
-a decade ago,a decade ago,DATE,,,en,2
-At least 20,At least 20,CARDINAL,,,en,2
-over 300,over 300,CARDINAL,,,en,2
-Oct 17,Oct 17,DATE,,,en,2
-a week,a week,DATE,,,en,2
-about 20,about 20,CARDINAL,,,en,2
-Mazars historic Blue Mosque,Mazars historic Blue Mosque,FAC,,,en,2
-10 kilometers,10 kilometers,QUANTITY,,,en,2
-yesterday,yesterday,DATE,,,en,2
-hours,hours,TIME,,,en,2
-at least two,at least two,CARDINAL,,,en,2
-Nov 4,Nov 4,DATE,,,en,2
-the night,the night,TIME,,,en,2
-3.4,3.4,CARDINAL,,,en,2
+28km,28km,QUANTITY,,,en,2
+Malaysian,Malaysian,NORP,,,en,2
+2021,2021,DATE,,,en,2
+3 million,3 million,CARDINAL,,,en,2
+Wednesday,Wednesday,DATE,,,en,2
+Nov 3,Nov 3,DATE,,,en,2
+late Monday evening,late Monday evening,TIME,,,en,2
+October 16,October 16,DATE,,,en,2
+19th,19th,ORDINAL,,,en,2
+11th,11th,ORDINAL,,,en,2
+75th,75th,ORDINAL,,,en,2
 1:06 am,1:06 am,TIME,,,en,2
+2.9,2.9,CARDINAL,,,en,2
+a decade ago,a decade ago,DATE,,,en,2
+10,10,CARDINAL,,,en,2
+yesterday,yesterday,DATE,,,en,2
+Nov 4,Nov 4,DATE,,,en,2
+at least 66,at least 66,CARDINAL,,,en,2
+Today,Today,DATE,,,en,2
+about 20,about 20,CARDINAL,,,en,2
+At least two,At least two,CARDINAL,,,en,2
+dozens,dozens,CARDINAL,,,en,2
+the night,the night,TIME,,,en,2
+"Thursday, October 9","Thursday, October 9",DATE,,,en,2
+at least two,at least two,CARDINAL,,,en,2
+hours,hours,TIME,,,en,2
+At least 20,At least 20,CARDINAL,,,en,2
+30th,30th,ORDINAL,,,en,2
+Oct 17,Oct 17,DATE,,,en,2
+10 kilometers,10 kilometers,QUANTITY,,,en,2
+10:16 a.m.,10:16 a.m.,TIME,,,en,2
+over 300,over 300,CARDINAL,,,en,2
 more than three decades,more than three decades,DATE,,,en,2
-27,27,CARDINAL,,,en,1
-millions of years,millions of years,DATE,,,en,1
-millions of dollars,millions of dollars,MONEY,,,en,1
-Eight years ago,Eight years ago,DATE,,,en,1
-"over 2,200","over 2,200",CARDINAL,,,en,1
-half,half,CARDINAL,,,en,1
-At least 66,At least 66,CARDINAL,,,en,1
-85,85,CARDINAL,,,en,1
-+8231 chars,+8231 chars,WORK_OF_ART,,,en,1
-1:04 a.m.,1:04 a.m.,TIME,,,en,1
-at least 85,at least 85,CARDINAL,,,en,1
+Mazars historic Blue Mosque,Mazars historic Blue Mosque,FAC,,,en,2
+early Monday morning,early Monday morning,TIME,,,en,2
+a week,a week,DATE,,,en,2
 75,75,CARDINAL,,,en,1
-November 2025,November 2025,DATE,,,en,1
-November 6,November 6,DATE,,,en,1
-240 km,240 km,QUANTITY,,,en,1
-November 1,November 1,DATE,,,en,1
-today,today,DATE,,,en,1
-160 km,160 km,QUANTITY,,,en,1
-October 24,October 24,DATE,,,en,1
+Eight years ago,Eight years ago,DATE,,,en,1
 240km,240km,QUANTITY,,,en,1
+October 24,October 24,DATE,,,en,1
+"2025
+
+","2025
+
+",QUANTITY,,,en,1
+160 km,160 km,QUANTITY,,,en,1
+November 1,November 1,DATE,,,en,1
+At least 66,At least 66,CARDINAL,,,en,1
 Typhoon Kalmaegi,Typhoon Kalmaegi,WORK_OF_ART,,,en,1
-Afghans,Afghans,NORP,,,en,1
-"more than 2,200","more than 2,200",CARDINAL,,,en,1
-28 kilometres,28 kilometres,QUANTITY,,,en,1
-Republicans,Republicans,NORP,,,en,1
-Democratic,Democratic,NORP,,,en,1
-At least 9,At least 9,CARDINAL,,,en,1
-+10975,+10975,NORP,,,en,1
++8231 chars,+8231 chars,WORK_OF_ART,,,en,1
+240 km,240 km,QUANTITY,,,en,1
+Pack in a Get Home Bag,Pack in a Get Home Bag,WORK_OF_ART,,,en,1
+1:04 a.m.,1:04 a.m.,TIME,,,en,1
 Seismometers,Seismometers,NORP,,,en,1
+85,85,CARDINAL,,,en,1
+at least 85,at least 85,CARDINAL,,,en,1
+November 6,November 6,DATE,,,en,1
+"over 2,200","over 2,200",CARDINAL,,,en,1
+November 2025,November 2025,DATE,,,en,1
+today,today,DATE,,,en,1
+millions of dollars,millions of dollars,MONEY,,,en,1
++10975,+10975,NORP,,,en,1
+millions of years,millions of years,DATE,,,en,1
+27,27,CARDINAL,,,en,1
+Republicans,Republicans,NORP,,,en,1
+First,First,ORDINAL,,,en,1
+half,half,CARDINAL,,,en,1
 Afghanistans,Afghanistans,NORP,,,en,1
 less than three months,less than three months,DATE,,,en,1
 August,August,DATE,,,en,1
 320,320,CARDINAL,,,en,1
+"November 3, 2025","November 3, 2025",DATE,,,en,1
+At least 9,At least 9,CARDINAL,,,en,1
 seven,seven,CARDINAL,,,en,1
+the 15th century,the 15th century,DATE,,,en,1
 17.4 miles,17.4 miles,QUANTITY,,,en,1
 28 km,28 km,QUANTITY,,,en,1
 150,150,CARDINAL,,,en,1
-7,7,CARDINAL,,,en,1
-"November 3, 2025","November 3, 2025",DATE,,,en,1
-dozens,dozens,CARDINAL,,,en,1
-mangitude-6.3 ,mangitude-6.3 ,MONEY,,,en,1
-the 15th century,the 15th century,DATE,,,en,1
 more than 600,more than 600,CARDINAL,,,en,1
-01:00,01:00,TIME,,,en,1
 Mazar-e-Sharif,Mazar-e-Sharif,FAC,0.13333333333333333,0.3666666666666667,en,1
 Islamic,Islamic,NORP,,,en,1
-First,First,ORDINAL,,,en,1
+7,7,CARDINAL,,,en,1
+mangitude-6.3 ,mangitude-6.3 ,MONEY,,,en,1
+Afghans,Afghans,NORP,,,en,1
+01:00,01:00,TIME,,,en,1
 around 20:30 GMT,around 20:30 GMT,TIME,,,en,1
+Democratic,Democratic,NORP,,,en,1
+28 kilometres,28 kilometres,QUANTITY,,,en,1
+"more than 2,200","more than 2,200",CARDINAL,,,en,1
 the early hours of Monday,the early hours of Monday,TIME,,,en,1
 6,6,CARDINAL,,,en,1
-07:17 AM Indian Standard Time,07:17 AM Indian Standard Time,TIME,,,en,1
-Pack in a Get Home Bag,Pack in a Get Home Bag,WORK_OF_ART,,,en,1
+7 lakh,7 lakh,CARDINAL,,,en,1
+$11.5 million,$11.5 million,MONEY,,,en,1
+"2:31 pm
+","2:31 pm
+",TIME,,,en,1
 "more than 54,000","more than 54,000",CARDINAL,,,en,1
+between 2022 and 2025,between 2022 and 2025,DATE,,,en,1
 5,5,CARDINAL,,,en,1
 30 years,30 years,DATE,,,en,1
 eight,eight,CARDINAL,,,en,1
 "the past 2,500","the past 2,500",DATE,,,en,1
 +1838,+1838,NORP,,,en,1
 10 million euros,10 million euros,MONEY,,,en,1
-$11.5 million,$11.5 million,MONEY,,,en,1
 5.5,5.5,CARDINAL,,,en,1
+Read Full Article,Read Full Article,LAW,,,en,1
 Indonesia&rsquo;s,Indonesia&rsquo;s,CARDINAL,,,en,1
 W Java,W Java,NORP,,,en,1
 3 decades,3 decades,DATE,,,en,1
@@ -179,14 +195,10 @@ Great ShakeOut,Great ShakeOut,FAC,,,en,1
 yearly,yearly,DATE,,,en,1
 MANILA,MANILA,WORK_OF_ART,0.075,0.25,en,1
 October 17th and 18th,October 17th and 18th,DATE,,,en,1
-3.9,3.9,CARDINAL,,,en,1
-4.2,4.2,CARDINAL,,,en,1
-between 2022 and 2025,between 2022 and 2025,DATE,,,en,1
-"2:31 pm
-","2:31 pm
-",TIME,,,en,1
-Saturday,Saturday,DATE,,,en,1
 Carrickmines,Carrickmines,PRODUCT,,,en,1
+"the past 3,000 years","the past 3,000 years",DATE,,,en,1
+Nearly 700,Nearly 700,CARDINAL,,,en,1
+just days,just days,DATE,,,en,1
 2.5,2.5,CARDINAL,,,en,1
 4.1,4.1,CARDINAL,,,en,1
 25km,25km,QUANTITY,,,en,1
@@ -196,32 +208,32 @@ Southern Californians,Southern Californians,NORP,,,en,1
 the Android Earthquake Alert System,the Android Earthquake Alert System,EVENT,,,en,1
 Android,Android,PRODUCT,,,en,1
 "September 30, 2025","September 30, 2025",DATE,,,en,1
-just days,just days,DATE,,,en,1
 Oriental,Oriental,NORP,,,en,1
+this week,this week,DATE,,,en,1
 countrys,countrys,NORP,,,en,1
 9.34 am,9.34 am,TIME,,,en,1
 about 20 kilometers,about 20 kilometers,QUANTITY,,,en,1
 9:43 a.m.,9:43 a.m.,TIME,,,en,1
 7.6-Magnitude,7.6-Magnitude,CARDINAL,,,en,1
 "The Meteorology, Climatology","The Meteorology, Climatology",WORK_OF_ART,,,en,1
-At least two,At least two,CARDINAL,,,en,1
-"the past 3,000 years","the past 3,000 years",DATE,,,en,1
+72,72,CARDINAL,,,en,1
+at least 72,at least 72,CARDINAL,,,en,1
+"170,000","170,000",CARDINAL,,,en,1
+3.9,3.9,CARDINAL,,,en,1
+4.2,4.2,CARDINAL,,,en,1
 10 km,10 km,QUANTITY,,,en,1
-October 19,October 19,DATE,,,en,1
-"2025
-
-","2025
-
-",QUANTITY,,,en,1
+the third quarter,the third quarter,DATE,,,en,1
 12:38 UTC,12:38 UTC,TIME,,,en,1
+October 27,October 27,DATE,,,en,1
 10/27/2025 9:52:33 AM PDT,10/27/2025 9:52:33 AM PDT,TIME,,,en,1
 late Monday night,late Monday night,TIME,,,en,1
+07:17 AM Indian Standard Time,07:17 AM Indian Standard Time,TIME,,,en,1
 Eurasian,Eurasian,NORP,,,en,1
 07:17 AM Indian S,07:17 AM Indian S,FAC,,,en,1
 Sndrg,Sndrg,NORP,,,en,1
 Q3 2025,Q3 2025,DATE,,,en,1
-the third quarter,the third quarter,DATE,,,en,1
 +27506,+27506,CARDINAL,,,en,1
+Saturday,Saturday,DATE,,,en,1
 zero,zero,CARDINAL,,,en,1
 10:48 p.m.,10:48 p.m.,TIME,,,en,1
 +4956,+4956,NORP,,,en,1
@@ -233,12 +245,12 @@ the early hours of this morning,the early hours of this morning,TIME,,,en,1
 ","Abstract
 ",WORK_OF_ART,,,en,1
 "destroying over 200,000","destroying over 200,000",CARDINAL,,,en,1
-Nearly 700,Nearly 700,CARDINAL,,,en,1
-7 lakh,7 lakh,CARDINAL,,,en,1
-October 27,October 27,DATE,,,en,1
 7:38 a.m.,7:38 a.m.,TIME,,,en,1
-10k,10k,CARDINAL,,,en,1
 6.8,6.8,CARDINAL,,,en,1
+about 100 m,about 100 m,QUANTITY,,,en,1
+06:09 AM,06:09 AM,TIME,,,en,1
+October 19,October 19,DATE,,,en,1
+10k,10k,CARDINAL,,,en,1
 a mere 10 kilometers,a mere 10 kilometers,QUANTITY,,,en,1
 the weekend,the weekend,DATE,,,en,1
 early Tuesday,early Tuesday,DATE,,,en,1
@@ -256,6 +268,4 @@ De,De,WORK_OF_ART,,,en,1
 early Friday,early Friday,DATE,,,en,1
 06:09 AM Indian Standard Time,06:09 AM Indian Standard Time,TIME,,,en,1
 80 kilometers,80 kilometers,QUANTITY,,,en,1
-06:09 AM,06:09 AM,TIME,,,en,1
-about 100 m,about 100 m,QUANTITY,,,en,1
 almost 25 years,almost 25 years,DATE,,,en,1

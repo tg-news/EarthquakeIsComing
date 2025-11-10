@@ -5,56 +5,61 @@ the US Geological Survey,the US Geological Survey,ORG,0.011363636363636355,0.241
 BMKG,BMKG,ORG,0.13333333333333333,0.5833333333333334,en,6
 the National Centre for Seismology,the National Centre for Seismology,ORG,-0.26666666666666666,0.3,en,5
 the National Center for Seismology,the National Center for Seismology,ORG,-0.07166666666666666,0.205,en,4
-AP,AP,ORG,0.07738095238095237,0.3404761904761905,en,4
 Geophysics Agency,Geophysics Agency,ORG,0.15000000000000002,0.6875,en,4
+AP,AP,ORG,0.07738095238095237,0.3404761904761905,en,4
 Cascadia,Cascadia,ORG,-0.1414141414141414,0.22676767676767678,en,4
-MetMalaysia,MetMalaysia,ORG,0.10833333333333332,0.2416666666666667,en,3
-magnitude-6.3,magnitude-6.3,ORG,0.016666666666666666,0.1111111111111111,en,3
 Fener Greek Orthodox School,Fener Greek Orthodox School,ORG,0.004040404040404035,0.18888888888888888,en,3
 Taliban,Taliban,ORG,0.016666666666666666,0.11944444444444446,en,3
 Campi Flegrei,Campi Flegrei,ORG,0.02070707070707072,0.4366161616161616,en,3
+magnitude-6.3,magnitude-6.3,ORG,0.016666666666666666,0.1111111111111111,en,3
 AFAD,AFAD,ORG,-0.09999999999999999,0.09999999999999999,en,3
-The Japan Air Self-Defense Force,The Japan Air Self-Defense Force,ORG,0.19318181818181818,0.19696969696969696,en,2
-National Center for Seismology,National Center for Seismology,ORG,-0.07222222222222223,0.16666666666666666,en,2
+MetMalaysia,MetMalaysia,ORG,0.10833333333333332,0.2416666666666667,en,3
+KUALA LUMPUR,KUALA LUMPUR,ORG,0.16249999999999998,0.21250000000000002,en,2
+The Malaysian Meteorological Department,The Malaysian Meteorological Department,ORG,0.16249999999999998,0.21250000000000002,en,2
+Disaster and Emergency Management Authority,Disaster and Emergency Management Authority,ORG,-0.15,0.15,en,2
 Google,Google,ORG,0.0,0.0,en,2
 The US Geological Survey,The US Geological Survey,ORG,0.04583333333333334,0.4791666666666667,en,2
 SAATNM,SAATNM,ORG,0.16249999999999998,0.21250000000000002,en,2
-Disaster and Emergency Management Authority,Disaster and Emergency Management Authority,ORG,-0.15,0.15,en,2
-Traveller,Traveller,ORG,-0.5,0.25,en,2
+National Center for Seismology,National Center for Seismology,ORG,-0.07222222222222223,0.16666666666666666,en,2
 PHT,PHT,ORG,0.2625,0.31875,en,2
-The Malaysian Meteorological Department,The Malaysian Meteorological Department,ORG,0.16249999999999998,0.21250000000000002,en,2
-KUALA LUMPUR,KUALA LUMPUR,ORG,0.16249999999999998,0.21250000000000002,en,2
-Seismometers,Seismometers,ORG,-0.1811111111111111,0.0,en,1
-the Great Assam School Shakeout Programme,the Great Assam School Shakeout Programme,ORG,0.4166666666666667,0.0,en,1
+The Japan Air Self-Defense Force,The Japan Air Self-Defense Force,ORG,0.19318181818181818,0.19696969696969696,en,2
+Traveller,Traveller,ORG,-0.5,0.25,en,2
 designboom | architecture & desig,designboom | architecture & desig,ORG,0.024999999999999998,0.0,en,1
-MyanmarWhen,MyanmarWhen,ORG,-0.5,0.0,en,1
-blue temple,blue temple,ORG,-0.1,0.0,en,1
 Sci-Fi Western ‘,Sci-Fi Western ‘,ORG,0.0,0.0,en,1
-the U.S. Geological Survey,the U.S. Geological Survey,ORG,0.3333333333333333,0.0,en,1
+the Great Assam School Shakeout Programme,the Great Assam School Shakeout Programme,ORG,0.4166666666666667,0.0,en,1
+MyanmarWhen,MyanmarWhen,ORG,-0.5,0.0,en,1
+Seismometers,Seismometers,ORG,-0.1811111111111111,0.0,en,1
+blue temple,blue temple,ORG,-0.1,0.0,en,1
 Department of Mineral and Geoscience,Department of Mineral and Geoscience,ORG,0.0,0.0,en,1
+the U.S. Geological Survey,the U.S. Geological Survey,ORG,0.3333333333333333,0.0,en,1
 Islam,Islam,ORG,-0.25,0.0,en,1
-the White House,the White House,ORG,0.0,0.0,en,1
+NCS).As,NCS).As,ORG,-0.3333333333333333,0.0,en,1
+Columbia Memorial Hospital,Columbia Memorial Hospital,ORG,0.1,0.0,en,1
+MIA,MIA,ORG,0.0,0.0,en,1
+FEMA,FEMA,ORG,0.0,0.0,en,1
+SafeTaiwans,SafeTaiwans,ORG,0.4590909090909091,0.0,en,1
+SafeTaiwan,SafeTaiwan,ORG,0.4590909090909091,0.0,en,1
+the Karnataka State Natural Disaster Monitoring Centre,the Karnataka State Natural Disaster Monitoring Centre,ORG,0.21666666666666667,0.0,en,1
+saysThe Washington Post,saysThe Washington Post,ORG,-0.013888888888888886,0.0,en,1
+The Washington Post,The Washington Post,ORG,0.0,0.0,en,1
+the Disaster and Emergency Management Authority,the Disaster and Emergency Management Authority,ORG,0.0,0.0,en,1
+kille,kille,ORG,-0.3,0.0,en,1
 "NewsFeed
 ","NewsFeed
 ",ORG,0.0,0.0,en,1
-kille,kille,ORG,-0.3,0.0,en,1
-the Disaster and Emergency Management Authority,the Disaster and Emergency Management Authority,ORG,0.0,0.0,en,1
-The Washington Post,The Washington Post,ORG,0.0,0.0,en,1
-saysThe Washington Post,saysThe Washington Post,ORG,-0.013888888888888886,0.0,en,1
-the Karnataka State Natural Disaster Monitoring Centre,the Karnataka State Natural Disaster Monitoring Centre,ORG,0.21666666666666667,0.0,en,1
-SafeTaiwan,SafeTaiwan,ORG,0.4590909090909091,0.0,en,1
-SafeTaiwans,SafeTaiwans,ORG,0.4590909090909091,0.0,en,1
-FEMA,FEMA,ORG,0.0,0.0,en,1
-MIA,MIA,ORG,0.0,0.0,en,1
-Columbia Memorial Hospital,Columbia Memorial Hospital,ORG,0.1,0.0,en,1
-NCS).As,NCS).As,ORG,-0.3333333333333333,0.0,en,1
+the White House,the White House,ORG,0.0,0.0,en,1
 Eastern,Eastern,ORG,0.5,0.0,en,1
-Johari,Johari,ORG,0.0,0.0,en,1
+Geological Survey,Geological Survey,ORG,0.1,0.0,en,1
 Newsweek,Newsweek,ORG,0.06628787878787878,0.0,en,1
-the Philippine Institute of …,the Philippine Institute of …,ORG,0.14444444444444443,0.0,en,1
+Blu,Blu,ORG,-0.18,0.0,en,1
+Live Updates,Live Updates,ORG,0.09943181818181818,0.0,en,1
+State Disaster Management Force,State Disaster Management Force,ORG,0.0,0.0,en,1
 the “Big One”,the “Big One”,ORG,0.0,0.0,en,1
 Android,Android,ORG,0.0,0.0,en,1
 iPhone,iPhone,ORG,0.0,0.0,en,1
+Indigenous Women’s Rights Violated,Indigenous Women’s Rights Violated,ORG,0.25,0.0,en,1
+Ms.,Ms.,ORG,-0.19999999999999998,0.0,en,1
+un,un,ORG,-0.19999999999999998,0.0,en,1
 Bogo,Bogo,ORG,0.0,0.0,en,1
 Phivolcs,Phivolcs,ORG,0.075,0.0,en,1
 Nanusa,Nanusa,ORG,0.30000000000000004,0.0,en,1
@@ -64,8 +69,8 @@ Philippine News Agency,Philippine News Agency,ORG,0.19318181818181818,0.0,en,1
 Oregon State University,Oregon State University,ORG,-0.25,0.0,en,1
 PHIVOLCS,PHIVOLCS,ORG,0.0,0.0,en,1
 the Volcano Monitoring and Eruption Prediction Division,the Volcano Monitoring and Eruption Prediction Division,ORG,0.14444444444444443,0.0,en,1
+the Philippine Institute of …,the Philippine Institute of …,ORG,0.14444444444444443,0.0,en,1
 the Volcano Monitoring,the Volcano Monitoring,ORG,0.0,0.0,en,1
-Geological Survey,Geological Survey,ORG,0.1,0.0,en,1
 Türkiyes,Türkiyes,ORG,0.016666666666666663,0.0,en,1
 the Biggest Fault Lines,the Biggest Fault Lines,ORG,0.0,0.0,en,1
 "the ""Big One""","the ""Big One""",ORG,0.1875,0.0,en,1
@@ -73,9 +78,7 @@ The National Center for Seismology,The National Center for Seismology,ORG,-0.1,0
 ChatGPT,ChatGPT,ORG,-0.3333333333333333,0.0,en,1
 ANI,ANI,ORG,-0.3333333333333333,0.0,en,1
 Lat,Lat,ORG,-0.05,0.0,en,1
-Blu,Blu,ORG,-0.18,0.0,en,1
 Negeri Sembilan,Negeri Sembilan,ORG,0.0,0.0,en,1
+Johari,Johari,ORG,0.0,0.0,en,1
 the Dewan Rakyat,the Dewan Rakyat,ORG,0.1,0.0,en,1
-State Disaster Management Force,State Disaster Management Force,ORG,0.0,0.0,en,1
-Live Updates,Live Updates,ORG,0.09943181818181818,0.0,en,1
 the Land of Tea,the Land of Tea,ORG,0.0,0.0,en,1
