@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'earthquake death',en,Impacts,#ffff00,#ffff00,2,0.5
 'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.466692175
+'earthquake death',en,Impacts,#ffff00,#ffff00,3,0.4617701768181818
 'earthquake victims',en,Impacts,#ffff00,#ffff00,2,0.4603852627586207
 'earthquake tectonic',en,Causes,#00ffff,#00ffff,2,0.447462310516129
 'earthquake early warning',en,Adaptation,#0000ff,#0000ff,2,0.4465095393333332
