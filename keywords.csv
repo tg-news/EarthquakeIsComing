@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake victims',en,Impacts,#ffff00,#ffff00,3,0.5235782233448276
 'earthquake tectonic',en,Causes,#00ffff,#00ffff,2,0.4507689389387096
 'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.44984491875
+'earthquake damage',en,Impacts,#ffff00,#ffff00,3,0.4476976829124998
 'earthquake early warning',en,Adaptation,#0000ff,#0000ff,2,0.4465095393333332
-'earthquake damage',en,Impacts,#ffff00,#ffff00,3,0.4383316622499998
 'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,2,0.4312465262499999
 'earthquake death',en,Impacts,#ffff00,#ffff00,3,0.4160566452954545
 'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.4045603858749999
