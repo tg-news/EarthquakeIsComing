@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,2,0.3341444532156249
-'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.330569344699459
 'earthquake damage',en,Impacts,#ffff00,#ffff00,3,0.3293968636721656
 'earthquake death',en,Impacts,#ffff00,#ffff00,3,0.3258041939759658
+'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.29656268526726737
 'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.2950701840446874
 'quake injures',en,Impacts,#ffff00,#ffff00,1,0.2810315182902098
 'earthquake victims',en,Impacts,#ffff00,#ffff00,2,0.2802114720461459
