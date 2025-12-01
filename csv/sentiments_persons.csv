@@ -1,41 +1,41 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Typhoon Kalmaegi,Typhoon Kalmaegi,PERSON,-0.644656084656085,2.602549603174605,en,5.999999999999996
 Mazar-e Sharif,Mazar-e Sharif,PERSON,0.040252742946708456,0.34116379310344824,en,5.8
+Tshering Tobgay,Tshering Tobgay,PERSON,0.0,0.0,en,2.8
 Ferdinand Marcos Jr,Ferdinand Marcos Jr,PERSON,-0.07407407407407408,0.9166666666666666,en,2.4000000000000004
 TANGI TASHQURGHAN,TANGI TASHQURGHAN,PERSON,-0.05,0.44999999999999996,en,2.0
 Lucy Jones,Lucy Jones,PERSON,0.10526315789473685,0.2105263157894737,en,1.9
 Nakagaki Kazumasa,Nakagaki Kazumasa,PERSON,0.10526315789473685,0.4210526315789474,en,1.9
 Mazar-e Sharif city,Mazar-e Sharif city,PERSON,0.07177033492822966,0.2631578947368421,en,1.9
-Jamie Morton,Jamie Morton,PERSON,0.2651515151515151,0.8838383838383836,en,1.2000000000000002
-Chelsea Clinton,Chelsea Clinton,PERSON,0.14814814814814814,0.34259259259259256,en,1.2000000000000002
 Kamila Andini,Kamila Andini,PERSON,0.9583333333333331,1.625,en,1.2000000000000002
 Torre dei Conti,Torre dei Conti,PERSON,-0.1759259259259259,0.7372685185185184,en,1.2000000000000002
+Jamie Morton,Jamie Morton,PERSON,0.2651515151515151,0.8838383838383836,en,1.2000000000000002
+Chelsea Clinton,Chelsea Clinton,PERSON,0.14814814814814814,0.34259259259259256,en,1.2000000000000002
 JIM GOMEZ,JIM GOMEZ,PERSON,0.4836309523809523,0.9109623015873014,en,1.2000000000000002
-Bruce Harrell,Bruce Harrell,PERSON,0.21212121212121207,0.2727272727272727,en,1.1
-Mitch Albom,Mitch Albom,PERSON,0.2479338842975206,0.8264462809917354,en,1.1
-Shin Godzilla,Shin Godzilla,PERSON,-0.125,0.6818181818181818,en,1.1
-Tomiichi Murayama,Tomiichi Murayama,PERSON,0.32954545454545453,1.3030303030303028,en,1.1
-Farhan Haq,Farhan Haq,PERSON,0.22727272727272727,0.43181818181818177,en,1.1
-António Guterres,António Guterres,PERSON,0.04545454545454544,0.6818181818181818,en,1.1
-Zaha Hadid,Zaha Hadid,PERSON,0.20454545454545453,0.6575757575757575,en,1.1
-Heather Humphreys,Heather Humphreys,PERSON,0.23484848484848486,0.45833333333333326,en,1.1
-Prabowo Subianto,Prabowo Subianto,PERSON,-0.0606060606060606,0.0606060606060606,en,1.1
 Hamid Kadiwala,Hamid Kadiwala,PERSON,0.0,0.0,en,1.1
+Prabowo Subianto,Prabowo Subianto,PERSON,-0.0606060606060606,0.0606060606060606,en,1.1
+Heather Humphreys,Heather Humphreys,PERSON,0.23484848484848486,0.45833333333333326,en,1.1
+Zaha Hadid,Zaha Hadid,PERSON,0.20454545454545453,0.6575757575757575,en,1.1
+Bruce Harrell,Bruce Harrell,PERSON,0.21212121212121207,0.2727272727272727,en,1.1
+Farhan Haq,Farhan Haq,PERSON,0.22727272727272727,0.43181818181818177,en,1.1
+Tomiichi Murayama,Tomiichi Murayama,PERSON,0.32954545454545453,1.3030303030303028,en,1.1
+Octav Stroici,Octav Stroici,PERSON,-0.2727272727272727,0.818181818181818,en,1.1
+António Guterres,António Guterres,PERSON,0.04545454545454544,0.6818181818181818,en,1.1
 Kate Linthicum,Kate Linthicum,PERSON,0.0,0.0,en,1.1
 Banarsi LalEvery,Banarsi LalEvery,PERSON,0.06493506493506493,0.33766233766233766,en,1.1
 Chris Davis,Chris Davis,PERSON,0.0,0.6727272727272726,en,1.1
-Octav Stroici,Octav Stroici,PERSON,-0.2727272727272727,0.818181818181818,en,1.1
-Batu Pahat,Batu Pahat,PERSON,0.25,0.375,en,1.0
+Shin Godzilla,Shin Godzilla,PERSON,-0.125,0.6818181818181818,en,1.1
+Mitch Albom,Mitch Albom,PERSON,0.2479338842975206,0.8264462809917354,en,1.1
+Octay Stroici,Octay Stroici,PERSON,0.0,0.0,en,1.0
+Dara Noor,Dara Noor,PERSON,0.14545454545454545,0.3333333333333333,en,1.0
+Aftab Pureval,Aftab Pureval,PERSON,0.0,0.15,en,1.0
 DAVID BILLER,DAVID BILLER,PERSON,-0.10000000000000002,0.09999999999999999,en,1.0
 James Bond,James Bond,PERSON,0.4,0.4,en,1.0
-Aftab Pureval,Aftab Pureval,PERSON,0.0,0.15,en,1.0
-Dara Noor,Dara Noor,PERSON,0.14545454545454545,0.3333333333333333,en,1.0
-Janardan Subedi,Janardan Subedi,PERSON,0.175,0.31666666666666665,en,1.0
 terremoto nella zona di,terremoto nella zona di,PERSON,0.0,0.0,en,1.0
-Erik Thorsen,Erik Thorsen,PERSON,0.1,0.1,en,1.0
-Octay Stroici,Octay Stroici,PERSON,0.0,0.0,en,1.0
+Batu Pahat,Batu Pahat,PERSON,0.25,0.375,en,1.0
 Typhoon Kalmaeg,Typhoon Kalmaeg,PERSON,0.0,0.0,en,1.0
-Hideaki Anno,Hideaki Anno,PERSON,-0.1375,0.75,en,1.0
+Erik Thorsen,Erik Thorsen,PERSON,0.1,0.1,en,1.0
+Janardan Subedi,Janardan Subedi,PERSON,0.175,0.31666666666666665,en,1.0
 Shinji Higuchi,Shinji Higuchi,PERSON,-0.1375,0.75,en,1.0
 Ethan Juan,Ethan Juan,PERSON,0.0,0.0,en,1.0
 Mike Steckler,Mike Steckler,PERSON,0.0,0.0,en,1.0
@@ -46,40 +46,43 @@ Victor Emmanuel III,Victor Emmanuel III,PERSON,0.0,0.0,en,1.0
 Nicholas II,Nicholas II,PERSON,0.0,0.0,en,1.0
 Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PERSON,-0.30587121212121215,0.4505681818181818,en,1.0
 Recep Tayyip Erdoan,Recep Tayyip Erdoan,PERSON,-0.30587121212121215,0.4505681818181818,en,1.0
+Bikrant Shrestha,Bikrant Shrestha,PERSON,0.0,0.0,en,1.0
+Muhammad Yunus,Muhammad Yunus,PERSON,0.0,0.0,en,1.0
+Hideaki Anno,Hideaki Anno,PERSON,-0.1375,0.75,en,1.0
+Don Josephus,Don Josephus,PERSON,0.0,0.0,en,1.0
 Cascadia Megaquake,Cascadia Megaquake,PERSON,0.0625,0.5,en,1.0
-Don Josephus Raphael Eblahan,Don Josephus Raphael Eblahan,PERSON,0.0,0.0,en,1.0
 Ricardo Makyn,Ricardo Makyn,PERSON,0.0,0.0,en,1.0
-Vivian McCall,Vivian McCall,PERSON,0.0,0.0,en,1.0
+nan An,nan An,PERSON,-0.21666666666666667,0.3,en,1.0
 Franz Kafka,Franz Kafka,PERSON,0.5,0.5,en,1.0
 Anders Fridén,Anders Fridén,PERSON,0.4375,0.8375,en,1.0
 Upper Manhattan,Upper Manhattan,PERSON,-0.15,0.3,en,1.0
 Byron Walker,Byron Walker,PERSON,-0.2,0.2,en,1.0
 PM Murayama,PM Murayama,PERSON,0.1,0.35,en,1.0
 Ralph Cad,Ralph Cad,PERSON,0.15,0.5,en,1.0
+Vivian McCall,Vivian McCall,PERSON,0.0,0.0,en,1.0
 Fine Gael’s,Fine Gael’s,PERSON,0.12916666666666668,0.2520833333333333,en,1.0
-Donald Trumps,Donald Trumps,PERSON,0.13636363636363635,0.5,en,1.0
 Anthony ZurcherNorth America,Anthony ZurcherNorth America,PERSON,0.0,0.05,en,1.0
 Lembang Fault,Lembang Fault,PERSON,0.0,0.0,en,1.0
 Raila Odinga,Raila Odinga,PERSON,0.0,0.08333333333333334,en,1.0
 Antonia Bornas,Antonia Bornas,PERSON,0.14444444444444443,0.49444444444444446,en,1.0
 Chris Goldfinger,Chris Goldfinger,PERSON,-0.25,0.25,en,1.0
 Natsuse Yamane,Natsuse Yamane,PERSON,-0.05,0.225,en,1.0
-nan An,nan An,PERSON,-0.21666666666666667,0.3,en,1.0
+Donald Trumps,Donald Trumps,PERSON,0.13636363636363635,0.5,en,1.0
 Jade Hindman,Jade Hindman,PERSON,0.0,0.0,en,1.0
+Manu Joseph,Manu Joseph,PERSON,0.04999999999999999,0.8,en,1.0
+Jay Costura,Jay Costura,PERSON,-0.05,0.25,en,1.0
 Efthymios Lekkas,Efthymios Lekkas,PERSON,0.20833333333333334,0.375,en,1.0
-Nostradamus Jay Costura,Nostradamus Jay Costura,PERSON,0.0,0.1,en,1.0
 Shuck et al,Shuck et al,PERSON,0.0,0.0,en,1.0
 Carol Guzy,Carol Guzy,PERSON,0.0,0.0,en,1.0
 Raphael Eblahan,Raphael Eblahan,PERSON,0.0,0.0,en,1.0
-Don Josephus,Don Josephus,PERSON,0.0,0.0,en,1.0
 Marcos Jr,Marcos Jr,PERSON,0.0,0.0,en,1.0
-Jay Costura,Jay Costura,PERSON,-0.05,0.25,en,1.0
+Don Josephus Raphael Eblahan,Don Josephus Raphael Eblahan,PERSON,0.0,0.0,en,1.0
+Nostradamus Jay Costura,Nostradamus Jay Costura,PERSON,0.0,0.1,en,1.0
+Peter Krauses Bobby Nash,Peter Krauses Bobby Nash,PERSON,-0.125,0.625,en,1.0
 Red Ba,Red Ba,PERSON,0.06628787878787878,0.3333333333333333,en,1.0
-Manu Joseph,Manu Joseph,PERSON,0.04999999999999999,0.8,en,1.0
 Amanda Castro,Amanda Castro,PERSON,0.06628787878787878,0.3333333333333333,en,1.0
 Liu D,Liu D,PERSON,-0.16666666666666666,0.5,en,1.0
 Xu J,Xu J,PERSON,-0.16666666666666666,0.5,en,1.0
 Tang J,Tang J,PERSON,-0.16666666666666666,0.5,en,1.0
 Challenger Deep,Challenger Deep,PERSON,0.0,0.4,en,1.0
-Peter Krauses Bobby Nash,Peter Krauses Bobby Nash,PERSON,-0.125,0.625,en,1.0
-Bikrant Shrestha,Bikrant Shrestha,PERSON,0.0,0.0,en,1.0
+Mohamad Shoki Hamzah,Mohamad Shoki Hamzah,PERSON,0.0,0.0,en,1.0
