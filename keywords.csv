@@ -4,10 +4,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake tectonic',en,Causes,#00ffff,#00ffff,3,0.186008810466668
 'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.1853687302088433
 'earthquake early warning',en,Adaptation,#0000ff,#0000ff,2,0.1847598856534931
-'earthquake disaster',en,Hazard,#ff0000,#ff0000,3,0.1690906594645727
+'earthquake disaster',en,Hazard,#ff0000,#ff0000,3,0.18402276768774395
 'earthquake victims',en,Impacts,#ffff00,#ffff00,2,0.1688296886885384
 'quake injures',en,Impacts,#ffff00,#ffff00,1,0.1629577723063604
 'earthquake death',en,Impacts,#ffff00,#ffff00,3,0.1191578669256542
 'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.0947834604659564
 'earthquake',en,Hazard,#ff0000,#ff0000,3,0.0940552340909091
-'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.05227192704176523
+'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.0522719270417652
