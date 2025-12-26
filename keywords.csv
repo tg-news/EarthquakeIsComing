@@ -9,5 +9,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'quake injures',en,Impacts,#ffff00,#ffff00,1,0.1400142564604063
 'earthquake death',en,Impacts,#ffff00,#ffff00,3,0.115285821886806
 'earthquake',en,Hazard,#ff0000,#ff0000,3,0.0940552340909091
-'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.08630703048697203
-'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.0380439950376753
+'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.086307030486972
+'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.032487410782024
