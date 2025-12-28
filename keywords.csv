@@ -9,5 +9,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,3,0.1350352222026932
 'earthquake death',en,Impacts,#ffff00,#ffff00,3,0.115285821886806
 'earthquake',en,Hazard,#ff0000,#ff0000,3,0.0940552340909091
-'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.086307030486972
+'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.0750111559139262
 'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.0279143291647204
