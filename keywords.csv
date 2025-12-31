@@ -8,6 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,3,0.1350352222026932
 'earthquake death',en,Impacts,#ffff00,#ffff00,3,0.115285821886806
 'quake injures',en,Impacts,#ffff00,#ffff00,1,0.1036580500426435
-'earthquake',en,Hazard,#ff0000,#ff0000,3,0.09309456215909093
+'earthquake',en,Hazard,#ff0000,#ff0000,3,0.0930945621590909
 'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.0657097075268372
-'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.0279143291647204
+'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.024027209790012338
