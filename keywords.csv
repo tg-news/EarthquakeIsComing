@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'earthquake',en,Hazard,#ff0000,#ff0000,3,0.16647599356896578
+'earthquake',en,Hazard,#ff0000,#ff0000,3,0.1464671345336208
 'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.1314947050785486
 'earthquake damage',en,Impacts,#ffff00,#ffff00,3,0.1294930653845526
 'earthquake disaster',en,Hazard,#ff0000,#ff0000,3,0.1107028972932915
