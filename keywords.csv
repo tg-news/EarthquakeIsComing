@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.1334484543167663
-'earthquake',en,Hazard,#ff0000,#ff0000,3,0.1254348636323591
+'earthquake',en,Hazard,#ff0000,#ff0000,3,0.1311198990875052
 'earthquake disaster',en,Hazard,#ff0000,#ff0000,3,0.1107028972932915
 'earthquake damage',en,Impacts,#ffff00,#ffff00,3,0.1088897178792883
 'earthquake victims',en,Impacts,#ffff00,#ffff00,2,0.0877527418595566
@@ -9,5 +9,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,2,0.0744709085222264
 'earthquake early warning',en,Adaptation,#0000ff,#0000ff,2,0.0590544420130648
 'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.0341036827557935
-'quake injures',en,Impacts,#ffff00,#ffff00,1,0.029337876589010048
+'quake injures',en,Impacts,#ffff00,#ffff00,1,0.02933787658901
 'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.0054371922270559
