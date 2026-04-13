@@ -66,8 +66,8 @@ Democratic,Democratic,NORP,,,en,9.4
 Canadian,Canadian,NORP,,,en,9.100000000000001
 the new year,the new year,DATE,,,en,9.100000000000001
 Blue Mosque,Blue Mosque,FAC,,,en,9.0
-+12 chars,+12 chars,WORK_OF_ART,,,en,8.8
 this week,this week,DATE,,,en,8.8
++12 chars,+12 chars,WORK_OF_ART,,,en,8.8
 two months,two months,DATE,,,en,8.700000000000001
 night,night,TIME,,,en,8.500000000000002
 6.9,6.9,CARDINAL,,,en,8.500000000000002
@@ -78,29 +78,29 @@ Super Bowl,Super Bowl,EVENT,,,en,7.800000000000002
 yesterday,yesterday,DATE,,,en,7.600000000000001
 2023,2023,DATE,,,en,7.6000000000000005
 10,10,CARDINAL,,,en,7.6000000000000005
-Turkiye,Turkiye,NORP,,,en,7.500000000000001
 at least three,at least three,CARDINAL,,,en,7.500000000000001
-10 kilometers,10 kilometers,QUANTITY,,,en,7.400000000000001
+Turkiye,Turkiye,NORP,,,en,7.500000000000001
 1,1,CARDINAL,,,en,7.400000000000001
-a year,a year,DATE,,,en,7.300000000000001
-2010,2010,DATE,,,en,7.300000000000001
+10 kilometers,10 kilometers,QUANTITY,,,en,7.400000000000001
 late-night 7.5,late-night 7.5,TIME,,,en,7.300000000000001
+2010,2010,DATE,,,en,7.300000000000001
+a year,a year,DATE,,,en,7.300000000000001
 countrys,countrys,NORP,,,en,7.100000000000001
 Santorini,Santorini,NORP,0.6805555555555555,2.5503472222222223,en,7.000000000000001
 hours,hours,TIME,,,en,6.900000000000001
 10km,10km,QUANTITY,,,en,6.700000000000001
 overnight,overnight,TIME,,,en,6.700000000000001
 20 miles,20 miles,QUANTITY,,,en,6.7
-1995,1995,DATE,,,en,6.500000000000001
 Monday night,Monday night,TIME,,,en,6.500000000000001
-2.5,2.5,CARDINAL,,,en,6.4
+1995,1995,DATE,,,en,6.500000000000001
 5.9,5.9,CARDINAL,,,en,6.4
+2.5,2.5,CARDINAL,,,en,6.4
 Feb. 6,Feb. 6,DATE,,,en,6.4
 eight,eight,CARDINAL,,,en,6.4
 early Tuesday,early Tuesday,DATE,,,en,6.4
+afternoon,afternoon,TIME,,,en,6.4
 6.21 miles,6.21 miles,QUANTITY,,,en,6.4
 at least 30,at least 30,CARDINAL,,,en,6.4
-afternoon,afternoon,TIME,,,en,6.4
 early Friday,early Friday,DATE,,,en,6.4
 2.3,2.3,CARDINAL,,,en,6.4
 magnitude-7.0,magnitude-7.0,PRODUCT,,,en,6.4
@@ -118,12 +118,12 @@ This week,This week,DATE,,,en,5.6000000000000005
 15th,15th,ORDINAL,,,en,5.5
 February 2023,February 2023,DATE,,,en,5.5
 one week,one week,DATE,,,en,5.5
-10:18 a.m.,10:18 a.m.,TIME,,,en,5.5
+70 centimeters,70 centimeters,QUANTITY,,,en,5.5
 "about 90,000","about 90,000",CARDINAL,,,en,5.5
 at least 10,at least 10,CARDINAL,,,en,5.5
 3.8,3.8,CARDINAL,,,en,5.5
 7.2,7.2,CARDINAL,,,en,5.5
-70 centimeters,70 centimeters,QUANTITY,,,en,5.5
+10:18 a.m.,10:18 a.m.,TIME,,,en,5.5
 November,November,DATE,,,en,5.5
 at least one,at least one,CARDINAL,,,en,5.5
 Yukon,Yukon,FAC,0.16216216216216217,0.8648648648648648,en,5.5
@@ -136,15 +136,15 @@ At least 20,At least 20,CARDINAL,,,en,5.0
 about 150,about 150,CARDINAL,,,en,5.0
 some 32 km,some 32 km,QUANTITY,,,en,4.8999999999999995
 3.2,3.2,CARDINAL,,,en,4.8
-2.9,2.9,CARDINAL,,,en,4.7
 at least nine,at least nine,CARDINAL,,,en,4.7
 more than 20,more than 20,CARDINAL,,,en,4.7
+2.9,2.9,CARDINAL,,,en,4.7
 Chinese,Chinese,NORP,,,en,4.6
+Thanksgiving,Thanksgiving,DATE,,,en,4.6
 3D,3D,CARDINAL,,,en,4.6
 a week,a week,DATE,,,en,4.6
-Thanksgiving,Thanksgiving,DATE,,,en,4.6
-early Wednesday,early Wednesday,DATE,,,en,4.6
 "March 11, 2011","March 11, 2011",DATE,,,en,4.6
+early Wednesday,early Wednesday,DATE,,,en,4.6
 the past week,the past week,DATE,,,en,4.6
 Four,Four,CARDINAL,,,en,4.6
 3.9,3.9,CARDINAL,,,en,4.6
@@ -274,142 +274,142 @@ about 30 kilometres,about 30 kilometres,QUANTITY,,,en,2.8
 Bhutanese,Bhutanese,NORP,,,en,2.8
 Feb 8,Feb 8,DATE,,,en,2.8
 5.3,5.3,CARDINAL,,,en,2.8
-nearly 14 years,nearly 14 years,DATE,,,en,2.8
 earlier this year,earlier this year,DATE,,,en,2.8
+nearly 14 years,nearly 14 years,DATE,,,en,2.8
+At least three,At least three,CARDINAL,,,en,2.7
 Nov 21,Nov 21,DATE,,,en,2.7
 2021,2021,DATE,,,en,2.7
-At least three,At least three,CARDINAL,,,en,2.7
-about 11:15 p.m.,about 11:15 p.m.,TIME,,,en,2.6
 late-evening,late-evening,TIME,,,en,2.6
+about 11:15 p.m.,about 11:15 p.m.,TIME,,,en,2.6
 Mexican,Mexican,NORP,,,en,2.6
 "20,000","20,000",CARDINAL,,,en,2.5999999999999996
 March 2011,March 2011,DATE,,,en,2.5999999999999996
 March,March,DATE,,,en,2.5999999999999996
 26,26,CARDINAL,,,en,2.5000000000000004
-hundreds of thousands,hundreds of thousands,CARDINAL,,,en,2.5
 years,years,DATE,,,en,2.5
-11:28 pm,11:28 pm,TIME,,,en,2.4
-321,321,CARDINAL,,,en,2.4
-1 Week,1 Week,DATE,,,en,2.4
+hundreds of thousands,hundreds of thousands,CARDINAL,,,en,2.5
+Latin American,Latin American,NORP,,,en,2.4
 the Pacific Ring of Fire,the Pacific Ring of Fire,FAC,,,en,2.4
+1 Week,1 Week,DATE,,,en,2.4
+321,321,CARDINAL,,,en,2.4
+11:28 pm,11:28 pm,TIME,,,en,2.4
 "Monday, Mar 16, 2026","Monday, Mar 16, 2026",DATE,,,en,2.4
 95 km,95 km,QUANTITY,,,en,2.4
-Latin American,Latin American,NORP,,,en,2.4
-9,9,CARDINAL,,,en,2.3000000000000003
 8,8,CARDINAL,,,en,2.3000000000000003
+9,9,CARDINAL,,,en,2.3000000000000003
 at least 26,at least 26,CARDINAL,,,en,2.200000000000001
 Blizzard,Blizzard,WORK_OF_ART,,,en,2.2
-earlier this week,earlier this week,DATE,,,en,2.2
-1989,1989,DATE,,,en,2.2
 Wednesday night,Wednesday night,TIME,,,en,2.2
+1989,1989,DATE,,,en,2.2
+earlier this week,earlier this week,DATE,,,en,2.2
 seconds,seconds,TIME,,,en,2.1999999999999997
 the year,the year,DATE,,,en,2.1999999999999997
 Israeli,Israeli,NORP,,,en,2.1
-March morning,March morning,TIME,,,en,2.0
-"Monday, Nov. 3","Monday, Nov. 3",DATE,,,en,2.0
-3 million,3 million,CARDINAL,,,en,2.0
 late August,late August,DATE,,,en,2.0
-the 1980s,the 1980s,DATE,,,en,2.0
-Nov 4,Nov 4,DATE,,,en,2.0
-over 300,over 300,CARDINAL,,,en,2.0
-Mazars historic Blue Mosque,Mazars historic Blue Mosque,FAC,,,en,2.0
-Nov 3,Nov 3,DATE,,,en,2.0
-the night,the night,TIME,,,en,2.0
-"more than 2,200","more than 2,200",CARDINAL,,,en,2.0
-Afghanistans,Afghanistans,NORP,,,en,2.0
-Nov 2,Nov 2,DATE,,,en,2.0
+3 million,3 million,CARDINAL,,,en,2.0
 recent years,recent years,DATE,,,en,2.0
-28km,28km,QUANTITY,,,en,2.0
+"more than 2,200","more than 2,200",CARDINAL,,,en,2.0
+Nov 3,Nov 3,DATE,,,en,2.0
+March morning,March morning,TIME,,,en,2.0
 magnitude-6.3,magnitude-6.3,FAC,,,en,2.0
-300,300,CARDINAL,,,en,2.0
+Mazars historic Blue Mosque,Mazars historic Blue Mosque,FAC,,,en,2.0
+over 300,over 300,CARDINAL,,,en,2.0
 28 kilometers,28 kilometers,QUANTITY,,,en,2.0
+Nov 2,Nov 2,DATE,,,en,2.0
+"Monday, Nov. 3","Monday, Nov. 3",DATE,,,en,2.0
+28km,28km,QUANTITY,,,en,2.0
+300,300,CARDINAL,,,en,2.0
+Nov 4,Nov 4,DATE,,,en,2.0
+the 1980s,the 1980s,DATE,,,en,2.0
+Afghanistans,Afghanistans,NORP,,,en,2.0
 late Monday evening,late Monday evening,TIME,,,en,2.0
+the night,the night,TIME,,,en,2.0
 2004,2004,DATE,,,en,1.9000000000000001
-Romans,Romans,NORP,,,en,1.9
-January 25th,January 25th,DATE,,,en,1.9
-around 6:01 p.m.,around 6:01 p.m.,TIME,,,en,1.9
-Nov 22,Nov 22,DATE,,,en,1.9
-Nearly 500,Nearly 500,CARDINAL,,,en,1.9
-3.0,3.0,CARDINAL,,,en,1.9
-the predawn hours,the predawn hours,TIME,,,en,1.9
-Himalayan,Himalayan,NORP,,,en,1.9
-7 a.m.,7 a.m.,TIME,,,en,1.9
-March 13,March 13,DATE,,,en,1.9
-the San Francisco Bay Area for Super Bowl LX,the San Francisco Bay Area for Super Bowl LX,FAC,,,en,1.9
-November 25th,November 25th,DATE,,,en,1.9
-3:35 a.m.,3:35 a.m.,TIME,,,en,1.9
-Great Falls,Great Falls,FAC,0.2143640350877193,0.688048245614035,en,1.9
-"Wednesday, Nov. 27","Wednesday, Nov. 27",DATE,,,en,1.9
-Haitian,Haitian,NORP,,,en,1.9
-about 9 miles,about 9 miles,QUANTITY,,,en,1.9
-Jan. 26,Jan. 26,DATE,,,en,1.9
-roughly 30 miles,roughly 30 miles,QUANTITY,,,en,1.9
+Australian,Australian,NORP,,,en,1.9
 45,45,CARDINAL,,,en,1.9
-80.4 kilometers,80.4 kilometers,QUANTITY,,,en,1.9
-8:11,8:11,TIME,,,en,1.9
+6.2 miles,6.2 miles,QUANTITY,,,en,1.9
+roughly 30 miles,roughly 30 miles,QUANTITY,,,en,1.9
+about 9 miles,about 9 miles,QUANTITY,,,en,1.9
+46.6 miles,46.6 miles,QUANTITY,,,en,1.9
 42.8 miles,42.8 miles,QUANTITY,,,en,1.9
+"Wednesday, Nov. 27","Wednesday, Nov. 27",DATE,,,en,1.9
+Nov 27,Nov 27,DATE,,,en,1.9
 "January 29, 2026","January 29, 2026",DATE,,,en,1.9
+Great Falls,Great Falls,FAC,0.2143640350877193,0.688048245614035,en,1.9
+8:11,8:11,TIME,,,en,1.9
 12:41 p.m.,12:41 p.m.,TIME,,,en,1.9
 about 7.5 miles,about 7.5 miles,QUANTITY,,,en,1.9
-"February 17, 2025","February 17, 2025",DATE,,,en,1.9
-early-morning,early-morning,TIME,,,en,1.9
-just before midnight,just before midnight,TIME,,,en,1.9
-Late-night,Late-night,TIME,,,en,1.9
-Nov 27,Nov 27,DATE,,,en,1.9
-Sankhuwasabha,Sankhuwasabha,FAC,0.03125,0.09374999999999999,en,1.9
-60 week,60 week,DATE,,,en,1.9
-the tens of thousands,the tens of thousands,MONEY,,,en,1.9
-at least 36,at least 36,CARDINAL,,,en,1.9
-Sunday evening,Sunday evening,TIME,,,en,1.9
-about 12 miles,about 12 miles,QUANTITY,,,en,1.9
-4.37pm,4.37pm,CARDINAL,,,en,1.9
-5.37pm,5.37pm,CARDINAL,,,en,1.9
-Miyako,Miyako,FAC,,,en,1.9
-Nov 9,Nov 9,DATE,,,en,1.9
-this month,this month,DATE,,,en,1.9
-Nine,Nine,CARDINAL,,,en,1.9
-180km,180km,QUANTITY,,,en,1.9
 Hours,Hours,TIME,,,en,1.9
-46.6 miles,46.6 miles,QUANTITY,,,en,1.9
-6.2 miles,6.2 miles,QUANTITY,,,en,1.9
+"February 17, 2025","February 17, 2025",DATE,,,en,1.9
+just before midnight,just before midnight,TIME,,,en,1.9
+November 25th,November 25th,DATE,,,en,1.9
+80.4 kilometers,80.4 kilometers,QUANTITY,,,en,1.9
+early-morning,early-morning,TIME,,,en,1.9
+around 6:01 p.m.,around 6:01 p.m.,TIME,,,en,1.9
 "January 23, 1556","January 23, 1556",DATE,,,en,1.9
-160 km,160 km,QUANTITY,,,en,1.9
-15,15,CARDINAL,,,en,1.9
-November 6,November 6,DATE,,,en,1.9
-32%,32%,PERCENT,,,en,1.9
-"the March 11, 2011","the March 11, 2011",DATE,,,en,1.9
-6 months,6 months,DATE,,,en,1.9
-Mar 3,Mar 3,DATE,,,en,1.9
-the Blue Mosque,the Blue Mosque,FAC,,,en,1.9
+the early 1900s,the early 1900s,DATE,,,en,1.9
 February 7 KST,February 7 KST,DATE,,,en,1.9
-Filipinos,Filipinos,NORP,,,en,1.9
-the minute,the minute,TIME,,,en,1.9
-this morning,this morning,TIME,,,en,1.9
-"more than 53,000","more than 53,000",CARDINAL,,,en,1.9
-more than a dozen,more than a dozen,CARDINAL,,,en,1.9
-The third day,The third day,DATE,,,en,1.9
-"February 3, 1863","February 3, 1863",DATE,,,en,1.9
-"February 3, 1931","February 3, 1931",DATE,,,en,1.9
-13 km,13 km,QUANTITY,,,en,1.9
-248,248,CARDINAL,,,en,1.9
+the Blue Mosque,the Blue Mosque,FAC,,,en,1.9
+Mar 3,Mar 3,DATE,,,en,1.9
+Jan. 26,Jan. 26,DATE,,,en,1.9
+Himalayan,Himalayan,NORP,,,en,1.9
+6 months,6 months,DATE,,,en,1.9
+3.0,3.0,CARDINAL,,,en,1.9
+January 25th,January 25th,DATE,,,en,1.9
+Romans,Romans,NORP,,,en,1.9
+"the March 11, 2011","the March 11, 2011",DATE,,,en,1.9
+32%,32%,PERCENT,,,en,1.9
+Nearly 500,Nearly 500,CARDINAL,,,en,1.9
+November 6,November 6,DATE,,,en,1.9
+15,15,CARDINAL,,,en,1.9
+March 13,March 13,DATE,,,en,1.9
+160 km,160 km,QUANTITY,,,en,1.9
+3:35 a.m.,3:35 a.m.,TIME,,,en,1.9
+Late-night,Late-night,TIME,,,en,1.9
+180km,180km,QUANTITY,,,en,1.9
+the predawn hours,the predawn hours,TIME,,,en,1.9
+the San Francisco Bay Area for Super Bowl LX,the San Francisco Bay Area for Super Bowl LX,FAC,,,en,1.9
+Feb 6,Feb 6,DATE,,,en,1.9
 three months,three months,DATE,,,en,1.9
+the tens of thousands,the tens of thousands,MONEY,,,en,1.9
 as little as three,as little as three,CARDINAL,,,en,1.9
+the minute,the minute,TIME,,,en,1.9
 "60,000","60,000",CARDINAL,,,en,1.9
+"more than 53,000","more than 53,000",CARDINAL,,,en,1.9
 15th-century,15th-century,DATE,,,en,1.9
 Silk Road,Silk Road,FAC,,,en,1.9
+1 p.m,1 p.m,TIME,,,en,1.9
+7 a.m.,7 a.m.,TIME,,,en,1.9
 Nov. 15,Nov. 15,DATE,,,en,1.9
++2002 chars,+2002 chars,WORK_OF_ART,,,en,1.9
 German,German,NORP,,,en,1.9
 the Silk Road,the Silk Road,FAC,,,en,1.9
 "February 7, 1812","February 7, 1812",DATE,,,en,1.9
 8.2,8.2,CARDINAL,,,en,1.9
 2006,2006,DATE,,,en,1.9
 a decade,a decade,DATE,,,en,1.9
-Australian,Australian,NORP,,,en,1.9
+248,248,CARDINAL,,,en,1.9
+13 km,13 km,QUANTITY,,,en,1.9
+Filipinos,Filipinos,NORP,,,en,1.9
+"February 3, 1931","February 3, 1931",DATE,,,en,1.9
 early Nov. 13,early Nov. 13,DATE,,,en,1.9
-+2002 chars,+2002 chars,WORK_OF_ART,,,en,1.9
-1 p.m,1 p.m,TIME,,,en,1.9
-Feb 6,Feb 6,DATE,,,en,1.9
-the early 1900s,the early 1900s,DATE,,,en,1.9
+Nine,Nine,CARDINAL,,,en,1.9
+Nov 22,Nov 22,DATE,,,en,1.9
+this month,this month,DATE,,,en,1.9
+Nov 9,Nov 9,DATE,,,en,1.9
+Haitian,Haitian,NORP,,,en,1.9
+60 week,60 week,DATE,,,en,1.9
+Miyako,Miyako,FAC,,,en,1.9
+this morning,this morning,TIME,,,en,1.9
+5.37pm,5.37pm,CARDINAL,,,en,1.9
+4.37pm,4.37pm,CARDINAL,,,en,1.9
+more than a dozen,more than a dozen,CARDINAL,,,en,1.9
+about 12 miles,about 12 miles,QUANTITY,,,en,1.9
+Sunday evening,Sunday evening,TIME,,,en,1.9
+at least 36,at least 36,CARDINAL,,,en,1.9
+The third day,The third day,DATE,,,en,1.9
+"February 3, 1863","February 3, 1863",DATE,,,en,1.9
+Sankhuwasabha,Sankhuwasabha,FAC,0.03125,0.09374999999999999,en,1.9
 eight hours,eight hours,TIME,,,en,1.9
 this every day,this every day,DATE,,,en,1.9
 December 13,December 13,DATE,,,en,1.9
@@ -532,7 +532,7 @@ At least 27,At least 27,CARDINAL,,,en,1.9
 Over 300,Over 300,CARDINAL,,,en,1.9
 At Least 20,At Least 20,CARDINAL,,,en,1.9
 just hours,just hours,TIME,,,en,1.9
-Feb. 23,Feb. 23,DATE,,,en,1.9
+01:25 am,01:25 am,TIME,,,en,1.9
 First,First,ORDINAL,,,en,1.9
 130 kilometers,130 kilometers,QUANTITY,,,en,1.9
 November 03,November 03,DATE,,,en,1.9
@@ -541,18 +541,17 @@ Wednesday marked 15 years,Wednesday marked 15 years,DATE,,,en,1.9
 March 9,March 9,DATE,,,en,1.9
 dozen,dozen,CARDINAL,,,en,1.9
 March 6,March 6,DATE,,,en,1.9
+Feb. 23,Feb. 23,DATE,,,en,1.9
 at least 2,at least 2,CARDINAL,,,en,1.9
-01:25 am,01:25 am,TIME,,,en,1.9
-roughly 1.5 million kilometers,roughly 1.5 million kilometers,QUANTITY,,,en,1.9
-12.57am Monday,12.57am Monday,DATE,,,en,1.9
+Negros,Negros,NORP,,,en,1.9
 61 kilometers,61 kilometers,QUANTITY,,,en,1.9
 25 kilometers,25 kilometers,QUANTITY,,,en,1.9
 late Sunday night,late Sunday night,TIME,,,en,1.9
 Malaysian,Malaysian,NORP,,,en,1.9
 March 3,March 3,DATE,,,en,1.9
 377 km,377 km,QUANTITY,,,en,1.9
+roughly 1.5 million kilometers,roughly 1.5 million kilometers,QUANTITY,,,en,1.9
 01:08 am UTC,01:08 am UTC,TIME,,,en,1.9
-Negros,Negros,NORP,,,en,1.9
 Early Tuesday,Early Tuesday,DATE,,,en,1.9
 58km,58km,QUANTITY,,,en,1.9
 the Donald Trump,the Donald Trump,WORK_OF_ART,,,en,1.9
@@ -564,107 +563,108 @@ the Sankhuwasabha-Taplejung border,the Sankhuwasabha-Taplejung border,FAC,,,en,1
 ",WORK_OF_ART,,,en,1.9
 Dutch,Dutch,NORP,,,en,1.9
 year,year,DATE,,,en,1.9
-10:09 pm UTC,10:09 pm UTC,TIME,,,en,1.9
-10:17 a.m.,10:17 a.m.,TIME,,,en,1.9
-February 27,February 27,DATE,,,en,1.9
-3:18 am,3:18 am,TIME,,,en,1.9
-14 kilometers,14 kilometers,QUANTITY,,,en,1.9
+12.57am Monday,12.57am Monday,DATE,,,en,1.9
 August,August,DATE,,,en,1.9
 the next 10 years,the next 10 years,DATE,,,en,1.9
-last week,last week,DATE,,,en,1.9
 March 2,March 2,DATE,,,en,1.9
 a tense 10 seconds,a tense 10 seconds,TIME,,,en,1.9
-"790,000","790,000",CARDINAL,,,en,1.9
-8:03 pm UTC,8:03 pm UTC,TIME,,,en,1.9
-whumph,whumph,WORK_OF_ART,,,en,1.9
+last week,last week,DATE,,,en,1.9
 midnight,midnight,TIME,,,en,1.9
+February,February,DATE,,,en,1.9
 0355 GMT,0355 GMT,TIME,,,en,1.9
 87 kilometers,87 kilometers,QUANTITY,,,en,1.9
 the National Earthquake Measurement and Research Center,the National Earthquake Measurement and Research Center,EVENT,,,en,1.9
-February,February,DATE,,,en,1.9
+10:09 pm UTC,10:09 pm UTC,TIME,,,en,1.9
+8:03 pm UTC,8:03 pm UTC,TIME,,,en,1.9
+"790,000","790,000",CARDINAL,,,en,1.9
+14 kilometers,14 kilometers,QUANTITY,,,en,1.9
+3:18 am,3:18 am,TIME,,,en,1.9
+February 27,February 27,DATE,,,en,1.9
+10:17 a.m.,10:17 a.m.,TIME,,,en,1.9
+whumph,whumph,WORK_OF_ART,,,en,1.9
 Hurricane Melissa,Hurricane Melissa,EVENT,,,en,1.8000000000000007
 3,3,CARDINAL,,,en,1.8
 at least five,at least five,CARDINAL,,,en,1.8
-40,40,CARDINAL,,,en,1.7
 Over 20,Over 20,CARDINAL,,,en,1.7
-Daily,Daily,DATE,,,en,1.7
 "12,932","12,932",CARDINAL,,,en,1.7
-Pixel Drop,Pixel Drop,PRODUCT,,,en,1.7
 early 2025,early 2025,DATE,,,en,1.7
-at least 39,at least 39,CARDINAL,,,en,1.7
-the last several days,the last several days,DATE,,,en,1.7
+Pixel Drop,Pixel Drop,PRODUCT,,,en,1.7
 Smritivan,Smritivan,PRODUCT,,,en,1.7
 Doomsday,Doomsday,DATE,,,en,1.7
-4:28 am Eastern,4:28 am Eastern,TIME,,,en,1.7
-Android,Android,PRODUCT,,,en,1.7
 Super Bowl Week Commences,Super Bowl Week Commences,EVENT,,,en,1.7
+40,40,CARDINAL,,,en,1.7
+4:28 am Eastern,4:28 am Eastern,TIME,,,en,1.7
+Daily,Daily,DATE,,,en,1.7
 90 percent,90 percent,PERCENT,,,en,1.7
+the last several days,the last several days,DATE,,,en,1.7
+at least 39,at least 39,CARDINAL,,,en,1.7
+Android,Android,PRODUCT,,,en,1.7
 114,114,CARDINAL,,,en,1.6000000000000005
 Roofus,Roofus,PRODUCT,,,en,1.6
-28 inches,28 inches,QUANTITY,,,en,1.6
 "nearly 3,000","nearly 3,000",CARDINAL,,,en,1.6
 Filipino,Filipino,NORP,,,en,1.6
+28 inches,28 inches,QUANTITY,,,en,1.6
 127,127,CARDINAL,,,en,1.5000000000000004
 Typhoon Kalmaegi,Typhoon Kalmaegi,WORK_OF_ART,-0.7,3.3108333333333335,en,1.5000000000000004
 World War II,World War II,EVENT,,,en,1.5000000000000002
 the previous night,the previous night,TIME,,,en,1.5
-at least 66,at least 66,CARDINAL,,,en,1.4000000000000004
 Tibetan,Tibetan,NORP,,,en,1.4000000000000004
+at least 66,at least 66,CARDINAL,,,en,1.4000000000000004
 summer,summer,DATE,,,en,1.4000000000000001
 season 5,season 5,DATE,,,en,1.4
+Italian,Italian,NORP,,,en,1.3000000000000003
 at least 114,at least 114,CARDINAL,,,en,1.3000000000000003
-Taiwanese,Taiwanese,NORP,,,en,1.3000000000000003
 Four Seasons,Four Seasons,WORK_OF_ART,,,en,1.3000000000000003
 Romanian,Romanian,NORP,,,en,1.3000000000000003
+Taiwanese,Taiwanese,NORP,,,en,1.3000000000000003
 At least 26,At least 26,CARDINAL,,,en,1.3000000000000003
-Italian,Italian,NORP,,,en,1.3000000000000003
-Midnight,Midnight,TIME,,,en,1.3
-at least 21,at least 21,CARDINAL,,,en,1.3
-September 30,September 30,DATE,,,en,1.3
 21 years,21 years,DATE,,,en,1.3
-"20,871","20,871",MONEY,,,en,1.3
 early 2024,early 2024,DATE,,,en,1.3
-nearly $3 billion,nearly $3 billion,MONEY,,,en,1.3
-around 2.5 billion euros,around 2.5 billion euros,MONEY,,,en,1.3
-"3,000","3,000",CARDINAL,,,en,1.3
-"nearly 1,000","nearly 1,000",CARDINAL,,,en,1.3
-19th,19th,ORDINAL,,,en,1.3
-"July 29, 2025","July 29, 2025",DATE,,,en,1.3
-Solar Mars Bot,Solar Mars Bot,PRODUCT,,,en,1.3
-two weeks,two weeks,DATE,,,en,1.3
-late September,late September,DATE,,,en,1.3
-early October,early October,DATE,,,en,1.3
-Player Housing,Player Housing,WORK_OF_ART,,,en,1.3
-nearly $1 million,nearly $1 million,MONEY,,,en,1.3
 as high as 70 cm,as high as 70 cm,QUANTITY,,,en,1.3
-At least 39,At least 39,CARDINAL,,,en,1.3
-Feb 24,Feb 24,DATE,,,en,1.3
-decades-old,decades-old,DATE,,,en,1.3
-Habitat for Humanity,Habitat for Humanity,WORK_OF_ART,,,en,1.3
-tonight,tonight,TIME,,,en,1.3
-Ultra,Ultra,NORP,,,en,1.3
+nearly $1 million,nearly $1 million,MONEY,,,en,1.3
 at least 19,at least 19,CARDINAL,,,en,1.3
+Player Housing,Player Housing,WORK_OF_ART,,,en,1.3
+early October,early October,DATE,,,en,1.3
+late September,late September,DATE,,,en,1.3
+Midnight,Midnight,TIME,,,en,1.3
+around 2.5 billion euros,around 2.5 billion euros,MONEY,,,en,1.3
+nearly $3 billion,nearly $3 billion,MONEY,,,en,1.3
+recent days,recent days,DATE,,,en,1.3
+two weeks,two weeks,DATE,,,en,1.3
+September 30,September 30,DATE,,,en,1.3
+"20,871","20,871",MONEY,,,en,1.3
+2022,2022,DATE,,,en,1.3
+Habitat for Humanity,Habitat for Humanity,WORK_OF_ART,,,en,1.3
+Ultra,Ultra,NORP,,,en,1.3
+decades-old,decades-old,DATE,,,en,1.3
+Solar Mars Bot,Solar Mars Bot,PRODUCT,,,en,1.3
+Feb 24,Feb 24,DATE,,,en,1.3
 At least 10,At least 10,CARDINAL,,,en,1.3
 45 miles,45 miles,QUANTITY,,,en,1.3
-21st,21st,ORDINAL,,,en,1.3
 "nearly 12,000 years","nearly 12,000 years",DATE,,,en,1.3
-recent days,recent days,DATE,,,en,1.3
 43,43,CARDINAL,,,en,1.3
-2022,2022,DATE,,,en,1.3
-66,66,CARDINAL,,,en,1.2000000000000002
-59,59,CARDINAL,,,en,1.2000000000000002
+"nearly 1,000","nearly 1,000",CARDINAL,,,en,1.3
+tonight,tonight,TIME,,,en,1.3
+19th,19th,ORDINAL,,,en,1.3
+at least 21,at least 21,CARDINAL,,,en,1.3
+21st,21st,ORDINAL,,,en,1.3
+At least 39,At least 39,CARDINAL,,,en,1.3
+"3,000","3,000",CARDINAL,,,en,1.3
+"July 29, 2025","July 29, 2025",DATE,,,en,1.3
 Fisch Earthquake Event,Fisch Earthquake Event,EVENT,,,en,1.2000000000000002
-21,21,CARDINAL,,,en,1.2000000000000002
 "More than 150,000","More than 150,000",CARDINAL,,,en,1.2000000000000002
+59,59,CARDINAL,,,en,1.2000000000000002
+21,21,CARDINAL,,,en,1.2000000000000002
+66,66,CARDINAL,,,en,1.2000000000000002
 The End of an Era,The End of an Era,WORK_OF_ART,,,en,1.2
-East Wing,East Wing,FAC,0.0,0.0,en,1.1
-Tens of thousands,Tens of thousands,CARDINAL,,,en,1.1
 Egyptian,Egyptian,NORP,,,en,1.1
+first two years,first two years,DATE,,,en,1.1
 World Tsunami Awareness Day,World Tsunami Awareness Day,EVENT,,,en,1.1
 2017,2017,CARDINAL,,,en,1.1
-first two years,first two years,DATE,,,en,1.1
 half,half,CARDINAL,,,en,1.1
+Tens of thousands,Tens of thousands,CARDINAL,,,en,1.1
 Nearly a million,Nearly a million,CARDINAL,,,en,1.1
+East Wing,East Wing,FAC,0.0,0.0,en,1.1
 nearly half a million,nearly half a million,CARDINAL,,,en,1.1
 Ogner Porsche,Ogner Porsche,PRODUCT,,,en,1.1
 12th-century,12th-century,DATE,,,en,1.1
@@ -684,26 +684,26 @@ the 13th century,the 13th century,DATE,,,en,1.1
 Christian,Christian,NORP,,,en,1.1
 the Danjiang Bridge,the Danjiang Bridge,FAC,,,en,1.1
 This day,This day,DATE,,,en,1.1
-Tokyo Gap-Financing Market Awards,Tokyo Gap-Financing Market Awards,EVENT,,,en,1.1
+85,85,CARDINAL,,,en,1.1
 101,101,CARDINAL,,,en,1.1
+"980,458","980,458",CARDINAL,,,en,1.1
 at least 85,at least 85,CARDINAL,,,en,1.1
 nearly a week,nearly a week,DATE,,,en,1.1
-85,85,CARDINAL,,,en,1.1
-"980,458","980,458",CARDINAL,,,en,1.1
-11 hours ago,11 hours ago,TIME,,,en,1.0
-673684,673684,DATE,,,en,1.0
-"January 18, 2026","January 18, 2026",DATE,,,en,1.0
-11 years late,11 years late,DATE,,,en,1.0
-late Friday,late Friday,TIME,,,en,1.0
-tense 10 seconds,tense 10 seconds,TIME,,,en,1.0
-+2363,+2363,CARDINAL,,,en,1.0
+Tokyo Gap-Financing Market Awards,Tokyo Gap-Financing Market Awards,EVENT,,,en,1.1
 2026-2029,2026-2029,DATE,,,en,1.0
++2363,+2363,CARDINAL,,,en,1.0
+tense 10 seconds,tense 10 seconds,TIME,,,en,1.0
+11 years late,11 years late,DATE,,,en,1.0
+thirty meter,thirty meter,QUANTITY,,,en,1.0
+380 crore,380 crore,MONEY,,,en,1.0
+"January 18, 2026","January 18, 2026",DATE,,,en,1.0
+673684,673684,DATE,,,en,1.0
+11 hours ago,11 hours ago,TIME,,,en,1.0
 ₹380 crore,₹380 crore,MONEY,,,en,1.0
 New Brunswickers,New Brunswickers,NORP,,,en,1.0
-380 crore,380 crore,MONEY,,,en,1.0
+late Friday,late Friday,TIME,,,en,1.0
 21.75 miles,21.75 miles,QUANTITY,,,en,1.0
 six-month,six-month,DATE,,,en,1.0
-thirty meter,thirty meter,QUANTITY,,,en,1.0
 22.5&nbsp;m,22.5&nbsp;m,CARDINAL,,,en,1.0
 100%,100%,PERCENT,,,en,1.0
 3.8%,3.8%,PERCENT,,,en,1.0
@@ -884,8 +884,8 @@ Week 18,Week 18,DATE,,,en,1.0
 Bollinger Canyon Road,Bollinger Canyon Road,FAC,,,en,1.0
 459,459,CARDINAL,,,en,1.0
 the last 10 years,the last 10 years,DATE,,,en,1.0
-+71 chars,+71 chars,WORK_OF_ART,,,en,1.0
-MCP,MCP,PRODUCT,,,en,1.0
+R.,R.,NORP,,,en,1.0
+Bhatnagar,Bhatnagar,NORP,,,en,1.0
 just before 11 p.m.,just before 11 p.m.,TIME,,,en,1.0
 Model Context Protocol,Model Context Protocol,LAW,,,en,1.0
 5:35 a.m.,5:35 a.m.,TIME,,,en,1.0
@@ -911,7 +911,7 @@ more than two dozen,more than two dozen,CARDINAL,,,en,1.0
 Super Bowl Week Kicks Off,Super Bowl Week Kicks Off,EVENT,,,en,1.0
 Feb 05,Feb 05,DATE,,,en,1.0
 the March 11,the March 11,EVENT,,,en,1.0
-R.,R.,NORP,,,en,1.0
++71 chars,+71 chars,WORK_OF_ART,,,en,1.0
 +6677 chars,+6677 chars,WORK_OF_ART,,,en,1.0
 Kurtulu street,Kurtulu street,FAC,,,en,1.0
 New year's Day 2024,New year's Day 2024,DATE,,,en,1.0
@@ -967,7 +967,7 @@ Meet the Press,Meet the Press,WORK_OF_ART,,,en,1.0
 callN,callN,FAC,,,en,1.0
 Mar 11,Mar 11,DATE,,,en,1.0
 earlier that night,earlier that night,TIME,,,en,1.0
-Bhatnagar,Bhatnagar,NORP,,,en,1.0
+MCP,MCP,PRODUCT,,,en,1.0
 Malmstrom Air Force Base,Malmstrom Air Force Base,FAC,,,en,1.0
 around 98 miles,around 98 miles,QUANTITY,,,en,1.0
 About 8.2 million,About 8.2 million,CARDINAL,,,en,1.0
@@ -1075,12 +1075,12 @@ The Pediatric RICO Suit,The Pediatric RICO Suit,LAW,,,en,1.0
 129 hours,129 hours,TIME,,,en,1.0
 406421,406421,DATE,,,en,1.0
 10 hours,10 hours,TIME,,,en,1.0
-New Labour,New Labour,EVENT,,,en,1.0
 Five,Five,CARDINAL,,,en,1.0
+"Some 790,000","Some 790,000",CARDINAL,,,en,1.0
 W. Stochastic,W. Stochastic,PRODUCT,,,en,1.0
 06 February 2023,06 February 2023,DATE,,,en,1.0
 the China Earthquake Networks Centre,the China Earthquake Networks Centre,FAC,,,en,1.0
-"Some 790,000","Some 790,000",CARDINAL,,,en,1.0
+New Labour,New Labour,EVENT,,,en,1.0
 "27,000 kilometres","27,000 kilometres",QUANTITY,,,en,1.0
 12 km,12 km,QUANTITY,,,en,1.0
 Nearly a year ago,Nearly a year ago,DATE,,,en,1.0
