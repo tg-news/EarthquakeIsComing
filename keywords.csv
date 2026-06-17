@@ -8,6 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake early warning',en,Adaptation,#0000ff,#0000ff,2,0.0772593401408573
 'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,2,0.0739650830599564
 'earthquake victims',en,Impacts,#ffff00,#ffff00,2,0.0665976450431415
-'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.033395544987639886
+'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.0333955449876398
 'quake injures',en,Impacts,#ffff00,#ffff00,1,0.0188626577893261
-'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.0145824071396859
+'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.012695076068733015
