@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'earthquake damage',en,Impacts,#ffff00,#ffff00,3,0.2467305342295421
-'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.23447719681360085
+'earthquake damage',en,Impacts,#ffff00,#ffff00,3,0.2971205845789818
+'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.2344771968136008
 'earthquake early warning',en,Adaptation,#0000ff,#0000ff,3,0.1740282330064895
 'earthquake',en,Hazard,#ff0000,#ff0000,3,0.1507507642127842
 'earthquake disaster',en,Hazard,#ff0000,#ff0000,3,0.1196993959145822
