@@ -8,6 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake tectonic',en,Causes,#00ffff,#00ffff,3,0.1033721653183508
 'earthquake victims',en,Impacts,#ffff00,#ffff00,2,0.0698808534365268
 'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,2,0.0672835304036756
-'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.06160195364519455
 'quake injures',en,Impacts,#ffff00,#ffff00,1,0.0554647667063893
+'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.05311173559841533
 'earthquake charity',en,Mitigation,#00ff00,#00ff00,1,0.0439400158655342
