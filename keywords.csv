@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'earthquake damage',en,Impacts,#ffff00,#ffff00,3,0.2492430358742373
-'earthquake tectonic',en,Causes,#00ffff,#00ffff,3,0.22590020509853184
+'earthquake damage',en,Impacts,#ffff00,#ffff00,3,0.30981190549310167
+'earthquake tectonic',en,Causes,#00ffff,#00ffff,3,0.2259002050985318
 'earthquake death',en,Impacts,#ffff00,#ffff00,3,0.2065832149387958
 'earthquake disaster',en,Hazard,#ff0000,#ff0000,3,0.1902649973539935
 'earthquake',en,Hazard,#ff0000,#ff0000,3,0.189431337806673
