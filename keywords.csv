@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake death',en,Impacts,#ffff00,#ffff00,3,0.1923711292932799
 'earthquake',en,Hazard,#ff0000,#ff0000,3,0.189431337806673
 'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.1892327805998599
-'earthquake early warning',en,Adaptation,#0000ff,#0000ff,3,0.1458140167173348
 'earthquake victims',en,Impacts,#ffff00,#ffff00,3,0.1439932622736513
-'quake injures',en,Impacts,#ffff00,#ffff00,1,0.08852662414064756
+'earthquake early warning',en,Adaptation,#0000ff,#0000ff,3,0.12574260420973457
+'quake injures',en,Impacts,#ffff00,#ffff00,1,0.0885266241406475
 'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,2,0.0707114616398023
 'earthquake charity',en,Mitigation,#00ff00,#00ff00,2,0.0614799071354202
 'earthquake salvage',en,Mitigation,#00ff00,#00ff00,1,0.0092377458618437
