@@ -2,11 +2,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'earthquake damage',en,Impacts,#ffff00,#ffff00,3,0.3383816394397526
 'earthquake magnitude',en,Hazard,#ff0000,#ff0000,3,0.2729319333485906
 'earthquake tectonic',en,Causes,#00ffff,#00ffff,3,0.2548995125235881
-'earthquake victims',en,Impacts,#ffff00,#ffff00,3,0.2273973629326036
+'earthquake victims',en,Impacts,#ffff00,#ffff00,3,0.2456535869542515
 'earthquake disaster',en,Hazard,#ff0000,#ff0000,3,0.2247289946994263
 'earthquake death',en,Impacts,#ffff00,#ffff00,3,0.2196858506135736
 'earthquake',en,Hazard,#ff0000,#ff0000,3,0.1638766085634775
-'earthquake early warning',en,Adaptation,#0000ff,#0000ff,2,0.16218474925196982
+'earthquake early warning',en,Adaptation,#0000ff,#0000ff,2,0.1621847492519698
 'earthquake evacuation',en,Mitigation,#00ff00,#00ff00,3,0.1359380328568162
 'quake injures',en,Impacts,#ffff00,#ffff00,1,0.1078712978288683
 'earthquake charity',en,Mitigation,#00ff00,#00ff00,2,0.1077758739438025
