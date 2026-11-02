@@ -6,7 +6,7 @@ NCS,NCS,ORG,-0.045516405667412434,0.21563199105145428,en,44.69999999999996
 AP,AP,ORG,0.06090733820686652,0.5480539262231482,en,42.39999999999998
 Trump,Trump,ORG,-0.06907284965703289,0.47911605673321933,en,41.899999999999956
 the U.S. Geological Survey,the U.S. Geological Survey,ORG,0.07503885003885012,0.3283702408702412,en,38.999999999999964
-UN,UN,ORG,0.037143058804549496,0.3145649036953386,en,32.19999999999998
+UN,UN,ORG,0.03714305880454951,0.3145649036953386,en,32.19999999999998
 NTT,NTT,ORG,0.01476793248945148,0.1574367088607596,en,31.599999999999984
 the US Geological Survey,the US Geological Survey,ORG,0.04230462519936207,0.30102339181286575,en,28.499999999999986
 the National Center for Seismology,the National Center for Seismology,ORG,-0.07378225381779888,0.27197867298578193,en,21.099999999999998
@@ -45,8 +45,8 @@ AFP,AFP,ORG,-0.018359374999999997,0.2114583333333333,en,6.4
 CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,0.0,0.0,en,6.4
 FIFA,FIFA,ORG,0.15555555555555553,0.4037037037037036,en,6.000000000000001
 &amp,&amp,ORG,0.0,0.043103448275862065,en,5.800000000000001
-Iwate,Iwate,ORG,0.08333333333333333,0.1982758620689655,en,5.8
 Android,Android,ORG,-0.039968652037617576,0.3936781609195402,en,5.8
+Iwate,Iwate,ORG,0.08333333333333333,0.1982758620689655,en,5.8
 AFAD,AFAD,ORG,-0.05263157894736842,0.05263157894736842,en,5.7
 the Euro-Mediterranean Seismological Centre,the Euro-Mediterranean Seismological Centre,ORG,0.03636363636363637,0.07272727272727274,en,5.5
 Palu,Palu,ORG,0.09696969696969697,0.3181818181818182,en,5.5
@@ -97,16 +97,16 @@ Times Syndication Service,Times Syndication Service,ORG,0.0,0.0,en,3.69999999999
 Tigers,Tigers,ORG,0.17792792792792794,0.5045045045045046,en,3.6999999999999997
 magn,magn,ORG,0.001289926289926291,0.027027027027027032,en,3.6999999999999997
 the Japanese Meteorological Agency,the Japanese Meteorological Agency,ORG,0.11711711711711711,0.3693693693693694,en,3.6999999999999997
-External Affairs,External Affairs,ORG,0.0763035763035763,0.2695390195390196,en,3.6999999999999997
 IST,IST,ORG,0.0,0.2882882882882883,en,3.6999999999999997
+the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,0.44594594594594594,0.545045045045045,en,3.6999999999999997
 un,un,ORG,-0.05405405405405405,0.0,en,3.6999999999999997
 Time,Time,ORG,0.10360360360360361,0.3693693693693694,en,3.6999999999999997
-the Fire and Rescue Department,the Fire and Rescue Department,ORG,0.11261261261261261,0.23873873873873874,en,3.6999999999999997
+External Affairs,External Affairs,ORG,0.0763035763035763,0.2695390195390196,en,3.6999999999999997
 Latest News,Latest News,ORG,0.24614435864435869,0.40772200772200773,en,3.6999999999999997
 Aeon,Aeon,ORG,0.08108108108108109,0.21621621621621626,en,3.6999999999999997
 Manipur,Manipur,ORG,-0.02364864864864865,0.13513513513513514,en,3.6999999999999997
 Takaichi,Takaichi,ORG,0.3783783783783784,0.45045045045045046,en,3.6999999999999997
-the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,0.44594594594594594,0.545045045045045,en,3.6999999999999997
+the Fire and Rescue Department,the Fire and Rescue Department,ORG,0.11261261261261261,0.23873873873873874,en,3.6999999999999997
 Samsung,Samsung,ORG,0.04398148148148149,0.3287037037037037,en,3.5999999999999996
 the Great Pyramid of Giza,the Great Pyramid of Giza,ORG,0.529649556792414,0.511163677592249,en,3.4999999999999996
 Senate,Senate,ORG,0.06684491978609626,0.12180629827688653,en,3.3999999999999995
@@ -149,11 +149,11 @@ Toyota,Toyota,ORG,-0.07142857142857144,0.18750000000000003,en,2.8
 The National Center for Seismology,The National Center for Seismology,ORG,-0.017857142857142853,0.23214285714285718,en,2.8
 Super Volunteer,Super Volunteer,ORG,0.3373015873015873,0.40674603174603174,en,2.8
 BRIN,BRIN,ORG,0.0619047619047619,0.21904761904761905,en,2.8
-UNOCHA - United Nations Office,UNOCHA - United Nations Office,ORG,0.0,0.0,en,2.8
 BPBD,BPBD,ORG,0.15476190476190477,0.11904761904761905,en,2.8
 Klein Dytham Architecture,Klein Dytham Architecture,ORG,0.17857142857142858,0.17857142857142858,en,2.8
 Choco,Choco,ORG,0.13392857142857142,0.0,en,2.8
 U.S. Geological Survey,U.S. Geological Survey,ORG,-0.0059523809523809685,0.369047619047619,en,2.8
+UNOCHA - United Nations Office,UNOCHA - United Nations Office,ORG,0.0,0.0,en,2.8
 Presbyterian Church,Presbyterian Church,ORG,0.0,0.0,en,2.8
 Susitna,Susitna,ORG,0.01785714285714286,0.21428571428571433,en,2.8
 Walt Disney World,Walt Disney World,ORG,0.12175324675324675,0.4058441558441559,en,2.8
@@ -176,8 +176,8 @@ BIPOC,BIPOC,ORG,0.0625,0.18055555555555558,en,2.4
 ScienceAlert,ScienceAlert,ORG,0.0,0.0,en,2.3
 Sky News,Sky News,ORG,0.0,0.0,en,2.1999999999999997
 NFL,NFL,ORG,0.1893939393939394,0.3787878787878788,en,2.1999999999999997
-Caraballeda,Caraballeda,ORG,0.11363636363636365,0.33522727272727276,en,2.1999999999999997
 UNHCR,UNHCR,ORG,0.07272727272727274,0.7000000000000001,en,2.1999999999999997
+Caraballeda,Caraballeda,ORG,0.11363636363636365,0.33522727272727276,en,2.1999999999999997
 Warner Bros.,Warner Bros.,ORG,-0.1904761904761905,0.14285714285714285,en,2.1
 The Japan Air Self-Defense Force,The Japan Air Self-Defense Force,ORG,0.19318181818181818,0.19696969696969696,en,2.0
 ABC,ABC,ORG,-0.020833333333333325,0.375,en,2.0
@@ -279,8 +279,8 @@ Mediagazer,Mediagazer,ORG,0.0,0.0,en,1.9
 MSDMA,MSDMA,ORG,0.0,0.0,en,1.9
 the Meghalaya State Disaster Management Authority,the Meghalaya State Disaster Management Authority,ORG,0.0,0.0,en,1.9
 Geol,Geol,ORG,0.0,0.0,en,1.9
-Science &amp,Science &amp,ORG,0.2631578947368421,0.0,en,1.9
 BLACKPINK,BLACKPINK,ORG,-0.13157894736842105,0.0,en,1.9
+Science &amp,Science &amp,ORG,0.2631578947368421,0.0,en,1.9
 ESMC,ESMC,ORG,0.0,0.0,en,1.9
 the BloFin,the BloFin,ORG,0.0,0.0,en,1.9
 the Red Cross,the Red Cross,ORG,0.04210526315789474,0.03157894736842106,en,1.9
@@ -466,8 +466,8 @@ the White House,the White House,ORG,-0.2929292929292929,0.51010101010101,en,1.1
 the Juan de Fuca Plate,the Juan de Fuca Plate,ORG,0.21212121212121207,0.303030303030303,en,1.1
 The UPSC Civil Services Examination,The UPSC Civil Services Examination,ORG,0.0,0.0,en,1.0
 GLOF,GLOF,ORG,-0.012499999999999997,0.0,en,1.0
-Coordinating Ministry for Human Development and Culture,Coordinating Ministry for Human Development and Culture,ORG,0.04,0.0,en,1.0
 SCOTUS,SCOTUS,ORG,0.0,0.0,en,1.0
+Coordinating Ministry for Human Development and Culture,Coordinating Ministry for Human Development and Culture,ORG,0.04,0.0,en,1.0
 the Supreme Court,the Supreme Court,ORG,0.0,0.0,en,1.0
 National Search and Rescue Agency,National Search and Rescue Agency,ORG,0.0,0.0,en,1.0
 The national disaster management agency,The national disaster management agency,ORG,-0.3,0.0,en,1.0
@@ -489,7 +489,7 @@ Independence DayAP News Search,Independence DayAP News Search,ORG,0.208333333333
 Gibran,Gibran,ORG,0.35,0.0,en,1.0
 Great Pyramid's,Great Pyramid's,ORG,0.16666666666666666,0.0,en,1.0
 Monash University & Scott Menegon,Monash University & Scott Menegon,ORG,0.65,0.0,en,1.0
-ScienceTags,ScienceTags,ORG,0.65,0.0,en,1.0
+BASARNAS,BASARNAS,ORG,0.0,0.0,en,1.0
 ac,ac,ORG,0.16999999999999998,0.0,en,1.0
 Plan Intl,Plan Intl,ORG,-0.05,0.0,en,1.0
 Super-Dam Is Becoming an Upstream Water Bomb,Super-Dam Is Becoming an Upstream Water Bomb,ORG,0.45,0.0,en,1.0
@@ -501,7 +501,7 @@ the Catastrophe Risk Modeling Ecosystem,the Catastrophe Risk Modeling Ecosystem,
 Join Verisk Model Exchange,Join Verisk Model Exchange,ORG,0.0,0.0,en,1.0
 KatRisk Announces Agreement,KatRisk Announces Agreement,ORG,0.0,0.0,en,1.0
 GOLD DE Forum,GOLD DE Forum,ORG,0.45,0.0,en,1.0
-BASARNAS,BASARNAS,ORG,0.0,0.0,en,1.0
+ScienceTags,ScienceTags,ORG,0.65,0.0,en,1.0
 GOLD DE Forum Binoche,GOLD DE Forum Binoche,ORG,0.0,0.0,en,1.0
 Plan International,Plan International,ORG,0.05,0.0,en,1.0
 7.2-,7.2-,ORG,0.5,0.0,en,1.0
@@ -660,8 +660,8 @@ Operation Southern Spear,Operation Southern Spear,ORG,0.05656565656565656,0.0,en
 KAHALUU-KEAUHOU,KAHALUU-KEAUHOU,ORG,0.0,0.0,en,1.0
 Disrupts Tokyo Train Service,Disrupts Tokyo Train Service,ORG,0.0,0.0,en,1.0
 Truth Social,Truth Social,ORG,0.05656565656565656,0.0,en,1.0
-UCLA,UCLA,ORG,0.0,0.0,en,1.0
 SIKKA,SIKKA,ORG,-0.3,0.0,en,1.0
+UCLA,UCLA,ORG,0.0,0.0,en,1.0
 National Centre of Seismology,National Centre of Seismology,ORG,0.0,0.0,en,1.0
 ABC NEWS Verify,ABC NEWS Verify,ORG,0.0,0.0,en,1.0
 Indonesia&#39;s disaster management agency,Indonesia&#39;s disaster management agency,ORG,0.06666666666666668,0.0,en,1.0
@@ -818,15 +818,15 @@ World Central Kitchen Is Serving Hope,World Central Kitchen Is Serving Hope,ORG,
 ARRL,ARRL,ORG,-0.07142857142857142,0.0,en,1.0
 Satellite Technology Is,Satellite Technology Is,ORG,0.0,0.0,en,1.0
 The World Health Organization,The World Health Organization,ORG,-0.05,0.0,en,1.0
-UNOCHA - United Nations Office for the Coordination of Humanitarian Affairs,UNOCHA - United Nations Office for the Coordination of Humanitarian Affairs,ORG,-0.2,0.0,en,1.0
 SF Giants,SF Giants,ORG,0.25,0.0,en,1.0
-U.S. Southern Command's,U.S. Southern Command's,ORG,0.0,0.0,en,1.0
-Marine Expeditionary,Marine Expeditionary,ORG,0.0,0.0,en,1.0
+UNOCHA - United Nations Office for the Coordination of Humanitarian Affairs,UNOCHA - United Nations Office for the Coordination of Humanitarian Affairs,ORG,-0.2,0.0,en,1.0
 UNHCR - United Nations,UNHCR - United Nations,ORG,0.16,0.0,en,1.0
-Secret Service,Secret Service,ORG,0.31666666666666665,0.0,en,1.0
 "Refugees
 ","Refugees
 ",ORG,0.16,0.0,en,1.0
+U.S. Southern Command's,U.S. Southern Command's,ORG,0.0,0.0,en,1.0
+Secret Service,Secret Service,ORG,0.31666666666666665,0.0,en,1.0
+Marine Expeditionary,Marine Expeditionary,ORG,0.0,0.0,en,1.0
 SoCal,SoCal,ORG,-0.1,0.0,en,1.0
 "ttanni/Shutterstock
 ","ttanni/Shutterstock
@@ -931,11 +931,11 @@ Google News,Google News,ORG,0.375,0.0,en,1.0
 ",ORG,0.3375,0.0,en,1.0
 The U.S. Geological Survey l,The U.S. Geological Survey l,ORG,0.0,0.0,en,1.0
 The National Unit for Disaster Risk Management,The National Unit for Disaster Risk Management,ORG,0.0,0.0,en,1.0
+Pan American Health Organization,Pan American Health Organization,ORG,0.11666666666666665,0.0,en,1.0
+PAHO,PAHO,ORG,0.11666666666666665,0.0,en,1.0
 +3962,+3962,ORG,0.13636363636363635,0.0,en,1.0
 Kumamoto General Hospital,Kumamoto General Hospital,ORG,-0.027777777777777762,0.0,en,1.0
 logis… Press,logis… Press,ORG,-0.04,0.0,en,1.0
-Pan American Health Organization,Pan American Health Organization,ORG,0.11666666666666665,0.0,en,1.0
-PAHO,PAHO,ORG,0.11666666666666665,0.0,en,1.0
 Emergency Medical Team,Emergency Medical Team,ORG,-0.15,0.0,en,1.0
 The 2026 Operational Readiness,The 2026 Operational Readiness,ORG,-0.1,0.0,en,1.0
 Auckland Airport,Auckland Airport,ORG,0.0,0.0,en,1.0
@@ -1456,13 +1456,13 @@ Rotary Club of Bombay,Rotary Club of Bombay,ORG,0.2,0.0,en,1.0
 Tayron,Tayron,ORG,0.016666666666666666,0.0,en,1.0
 Rs 50 lakh,Rs 50 lakh,ORG,0.0,0.0,en,1.0
 possib,possib,ORG,0.21428571428571427,0.0,en,1.0
+Geophys,Geophys,ORG,0.0,0.0,en,1.0
+EEW,EEW,ORG,0.1,0.0,en,1.0
+Environ.7,Environ.7,ORG,0.0,0.0,en,1.0
 Ecol,Ecol,ORG,0.0,0.0,en,1.0
 "Zhu, D. Aftermath of the Wenchuan","Zhu, D. Aftermath of the Wenchuan",ORG,0.0,0.0,en,1.0
 "N., Yuan","N., Yuan",ORG,0.0,0.0,en,1.0
 ~10%,~10%,ORG,0.0,0.0,en,1.0
-Press,Press,ORG,0.0,0.0,en,1.0
-Geophys,Geophys,ORG,0.0,0.0,en,1.0
-EEW,EEW,ORG,0.1,0.0,en,1.0
 Avci,Avci,ORG,0.0,0.0,en,1.0
 KARIWA,KARIWA,ORG,0.125,0.0,en,1.0
 SFGATE,SFGATE,ORG,0.0,0.0,en,1.0
@@ -1471,7 +1471,7 @@ CrashThe New York Times Exclusive,CrashThe New York Times Exclusive,ORG,0.025505
 The Geological Survey of Israel,The Geological Survey of Israel,ORG,0.1,0.0,en,1.0
 The National Institute for Earth Physics Research and Development,The National Institute for Earth Physics Research and Development,ORG,0.0,0.0,en,1.0
 Fault ZoneIndian Defence Review,Fault ZoneIndian Defence Review,ORG,-0.013888888888888886,0.0,en,1.0
-Environ.7,Environ.7,ORG,0.0,0.0,en,1.0
+Press,Press,ORG,0.0,0.0,en,1.0
 World,World,ORG,0.25,0.0,en,1.0
 CKD,CKD,ORG,0.0,0.0,en,1.0
 First Earthquake Detector,First Earthquake Detector,ORG,0.25,0.0,en,1.0
