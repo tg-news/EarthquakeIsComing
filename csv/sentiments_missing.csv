@@ -450,9 +450,9 @@ German,German,NORP,,,en,3.6999999999999997
 "4,300","4,300",CARDINAL,,,en,3.6999999999999997
 50 million yen,50 million yen,MONEY,,,en,3.6999999999999997
 at least 36,at least 36,CARDINAL,,,en,3.6999999999999997
+Season 1,Season 1,DATE,,,en,3.6999999999999997
 Wednesday morning,Wednesday morning,TIME,,,en,3.6999999999999997
 2026/02/07,2026/02/07,CARDINAL,,,en,3.6999999999999997
-Season 1,Season 1,DATE,,,en,3.6999999999999997
 a few seconds,a few seconds,TIME,,,en,3.6999999999999997
 midnight,midnight,TIME,,,en,3.6999999999999997
 "the Feb. 6, 2023","the Feb. 6, 2023",DATE,,,en,3.6999999999999997
@@ -665,70 +665,86 @@ Apr 20,Apr 20,DATE,,,en,2.2
 At least 30,At least 30,CARDINAL,,,en,2.2
 2022,2022,DATE,,,en,2.2
 Venezuelas,Venezuelas,NORP,-0.11250000000000002,0.28750000000000003,en,2.1999999999999997
-"nearly 1,500","nearly 1,500",CARDINAL,,,en,2.1999999999999997
+minutes,minutes,TIME,,,en,2.1999999999999997
+"more than 3,500","more than 3,500",CARDINAL,,,en,2.1999999999999997
 "more than 50,000","more than 50,000",CARDINAL,,,en,2.1999999999999997
 6 months,6 months,DATE,,,en,2.1999999999999997
-"more than 3,500","more than 3,500",CARDINAL,,,en,2.1999999999999997
 "1,500","1,500",CARDINAL,,,en,2.1999999999999997
-minutes,minutes,TIME,,,en,2.1999999999999997
+"nearly 1,500","nearly 1,500",CARDINAL,,,en,2.1999999999999997
 Haitian,Haitian,NORP,,,en,2.1
-Nov 3,Nov 3,DATE,,,en,2.0
-Nov 4,Nov 4,DATE,,,en,2.0
-"Monday, Nov. 3","Monday, Nov. 3",DATE,,,en,2.0
-late August,late August,DATE,,,en,2.0
-"more than 2,200","more than 2,200",CARDINAL,,,en,2.0
 Nov 2,Nov 2,DATE,,,en,2.0
-magnitude-6.3,magnitude-6.3,FAC,,,en,2.0
-March morning,March morning,TIME,,,en,2.0
-Afghanistans,Afghanistans,NORP,,,en,2.0
-28km,28km,QUANTITY,,,en,2.0
-late Monday evening,late Monday evening,TIME,,,en,2.0
 3 million,3 million,CARDINAL,,,en,2.0
+late Monday evening,late Monday evening,TIME,,,en,2.0
+"more than 2,200","more than 2,200",CARDINAL,,,en,2.0
+Nov 3,Nov 3,DATE,,,en,2.0
+magnitude-6.3,magnitude-6.3,FAC,,,en,2.0
+Nov 4,Nov 4,DATE,,,en,2.0
 Mazars historic Blue Mosque,Mazars historic Blue Mosque,FAC,,,en,2.0
-the 1980s,the 1980s,DATE,,,en,2.0
-28 kilometers,28 kilometers,QUANTITY,,,en,2.0
+Afghanistans,Afghanistans,NORP,,,en,2.0
 nearly half a million,nearly half a million,CARDINAL,,,en,2.0
+the 1980s,the 1980s,DATE,,,en,2.0
+March morning,March morning,TIME,,,en,2.0
+28 kilometers,28 kilometers,QUANTITY,,,en,2.0
+"Monday, Nov. 3","Monday, Nov. 3",DATE,,,en,2.0
+28km,28km,QUANTITY,,,en,2.0
+late August,late August,DATE,,,en,2.0
 Roofus,Roofus,PRODUCT,,,en,1.9000000000000001
-Italys,Italys,NORP,,,en,1.9000000000000001
 1.9,1.9,CARDINAL,,,en,1.9000000000000001
+Italys,Italys,NORP,,,en,1.9000000000000001
 million,million,CARDINAL,,,en,1.9000000000000001
 Player Housing,Player Housing,WORK_OF_ART,,,en,1.9000000000000001
-"more than 51,000","more than 51,000",CARDINAL,,,en,1.9
+"over 5,000","over 5,000",CARDINAL,,,en,1.9
 October,October,DATE,,,en,1.9
+"more than 5,000","more than 5,000",CARDINAL,,,en,1.9
+"more than 51,000","more than 51,000",CARDINAL,,,en,1.9
+"December 27, 2025","December 27, 2025",DATE,,,en,1.9
+the remaining hours,the remaining hours,TIME,,,en,1.9
++1696,+1696,NORP,,,en,1.9
 7 a.m.,7 a.m.,TIME,,,en,1.9
-thirteen days,thirteen days,DATE,,,en,1.9
-"5,069","5,069",CARDINAL,,,en,1.9
-Taiwans,Taiwans,NORP,,,en,1.9
+Dec 29,Dec 29,DATE,,,en,1.9
+earlier this month,earlier this month,DATE,,,en,1.9
+Apr 2,Apr 2,DATE,,,en,1.9
+roughly 1.5 million kilometers,roughly 1.5 million kilometers,QUANTITY,,,en,1.9
+12.57am Monday,12.57am Monday,DATE,,,en,1.9
+Indians,Indians,NORP,,,en,1.9
 "nearly 2,300","nearly 2,300",CARDINAL,,,en,1.9
-July 18,July 18,DATE,,,en,1.9
-approximately two hours,approximately two hours,TIME,,,en,1.9
+"5,069","5,069",CARDINAL,,,en,1.9
+June 24 Venezuela Earthquake Sequence,June 24 Venezuela Earthquake Sequence,DATE,,,en,1.9
 60 week,60 week,DATE,,,en,1.9
 More than 300,More than 300,CARDINAL,,,en,1.9
 Yesterday,Yesterday,DATE,,,en,1.9
-December 2004,December 2004,DATE,,,en,1.9
-20 am,20 am,TIME,,,en,1.9
-late Saturday night,late Saturday night,TIME,,,en,1.9
 "more than 1,000","more than 1,000",CARDINAL,,,en,1.9
 April 27,April 27,DATE,,,en,1.9
 about 100,about 100,CARDINAL,,,en,1.9
-"more than 5,000","more than 5,000",CARDINAL,,,en,1.9
-146,146,CARDINAL,,,en,1.9
-"December 27, 2025","December 27, 2025",DATE,,,en,1.9
-Dodecanese,Dodecanese,NORP,,,en,1.9
-About four years later,About four years later,DATE,,,en,1.9
-at least $8 billion,at least $8 billion,MONEY,,,en,1.9
-Saules,Saules,NORP,,,en,1.9
-magnitude-9.0,magnitude-9.0,FAC,,,en,1.9
-"more than 1,400","more than 1,400",CARDINAL,,,en,1.9
-approximately 360,approximately 360,CARDINAL,,,en,1.9
-active year,active year,DATE,,,en,1.9
-"over 5,000","over 5,000",CARDINAL,,,en,1.9
+87 kilometers,87 kilometers,QUANTITY,,,en,1.9
+approximately two hours,approximately two hours,TIME,,,en,1.9
+10:09 pm UTC,10:09 pm UTC,TIME,,,en,1.9
+late Saturday night,late Saturday night,TIME,,,en,1.9
+1 p.m,1 p.m,TIME,,,en,1.9
+Broken Hill,Broken Hill,FAC,,,en,1.9
+December 2004,December 2004,DATE,,,en,1.9
 "February 17, 2025","February 17, 2025",DATE,,,en,1.9
+thirteen days,thirteen days,DATE,,,en,1.9
+"6,462","6,462",CARDINAL,,,en,1.9
+Great Falls,Great Falls,FAC,0.2143640350877193,0.688048245614035,en,1.9
+Dodecanese,Dodecanese,NORP,,,en,1.9
+active year,active year,DATE,,,en,1.9
 "January 29, 2026","January 29, 2026",DATE,,,en,1.9
-At least 51,At least 51,CARDINAL,,,en,1.9
-406421,406421,DATE,,,en,1.9
 12:41 p.m.,12:41 p.m.,TIME,,,en,1.9
+146,146,CARDINAL,,,en,1.9
+"53,262","53,262",CARDINAL,,,en,1.9
 about 7.5 miles,about 7.5 miles,QUANTITY,,,en,1.9
+Feb 6,Feb 6,DATE,,,en,1.9
+406421,406421,DATE,,,en,1.9
+At least 51,At least 51,CARDINAL,,,en,1.9
+8.52 am,8.52 am,QUANTITY,,,en,1.9
+USD 10 Billion,USD 10 Billion,MONEY,,,en,1.9
+approximately 360,approximately 360,CARDINAL,,,en,1.9
+"more than 1,400","more than 1,400",CARDINAL,,,en,1.9
+magnitude-9.0,magnitude-9.0,FAC,,,en,1.9
+Saules,Saules,NORP,,,en,1.9
+at least $8 billion,at least $8 billion,MONEY,,,en,1.9
+About four years later,About four years later,DATE,,,en,1.9
 "July 02, 2026 (GLOBE NEWSWIRE)","July 02, 2026 (GLOBE NEWSWIRE)",DATE,,,en,1.9
 Hours,Hours,TIME,,,en,1.9
 Venezuelas La Guaira,Venezuelas La Guaira,FAC,,,en,1.9
@@ -736,70 +752,10 @@ July 17,July 17,DATE,,,en,1.9
 Friday afternoon,Friday afternoon,TIME,,,en,1.9
 10:48am,10:48am,CARDINAL,,,en,1.9
 the San Francisco Bay Area for Super Bowl LX,the San Francisco Bay Area for Super Bowl LX,FAC,,,en,1.9
-USD 10 Billion,USD 10 Billion,MONEY,,,en,1.9
-Broken Hill,Broken Hill,FAC,,,en,1.9
-June 24 Venezuela Earthquake Sequence,June 24 Venezuela Earthquake Sequence,DATE,,,en,1.9
-Great Falls,Great Falls,FAC,0.2143640350877193,0.688048245614035,en,1.9
-roughly 1.5 million kilometers,roughly 1.5 million kilometers,QUANTITY,,,en,1.9
-Molucca,Molucca,NORP,,,en,1.9
-earlier this month,earlier this month,DATE,,,en,1.9
-Dec 29,Dec 29,DATE,,,en,1.9
-"53,262","53,262",CARDINAL,,,en,1.9
-+1696,+1696,NORP,,,en,1.9
-Indians,Indians,NORP,,,en,1.9
-"February 3, 1931","February 3, 1931",DATE,,,en,1.9
-Great Ocean Road,Great Ocean Road,FAC,,,en,1.9
-Andean,Andean,NORP,,,en,1.9
-the minute,the minute,TIME,,,en,1.9
-7:31 a.m.,7:31 a.m.,TIME,,,en,1.9
-At least two,At least two,CARDINAL,,,en,1.9
-a month,a month,DATE,,,en,1.9
-Feb. 23,Feb. 23,DATE,,,en,1.9
-"at least 1,000 years","at least 1,000 years",DATE,,,en,1.9
-Bay,Bay,NORP,,,en,1.9
-May 1,May 1,DATE,,,en,1.9
-96km,96km,QUANTITY,,,en,1.9
-the remaining hours,the remaining hours,TIME,,,en,1.9
-"February 7, 1812","February 7, 1812",DATE,,,en,1.9
-18 km,18 km,QUANTITY,,,en,1.9
-2006,2006,DATE,,,en,1.9
-the Great Ocean Road,the Great Ocean Road,FAC,,,en,1.9
-Dec 18,Dec 18,DATE,,,en,1.9
-Apr 4,Apr 4,DATE,,,en,1.9
-December 13,December 13,DATE,,,en,1.9
-37.2 kilometers,37.2 kilometers,QUANTITY,,,en,1.9
-the past two days,the past two days,DATE,,,en,1.9
+20 am,20 am,TIME,,,en,1.9
 Port Campbell,Port Campbell,FAC,,,en,1.9
 5:21 AM,5:21 AM,TIME,,,en,1.9
-10:09 pm UTC,10:09 pm UTC,TIME,,,en,1.9
-87 kilometers,87 kilometers,QUANTITY,,,en,1.9
-Apr 2,Apr 2,DATE,,,en,1.9
-12.57am Monday,12.57am Monday,DATE,,,en,1.9
-1 p.m,1 p.m,TIME,,,en,1.9
-8.52 am,8.52 am,QUANTITY,,,en,1.9
-Feb 6,Feb 6,DATE,,,en,1.9
-"6,462","6,462",CARDINAL,,,en,1.9
-"more than 16,700","more than 16,700",CARDINAL,,,en,1.9
-the New Madrid Seismic Zone,the New Madrid Seismic Zone,FAC,,,en,1.9
-about 30km,about 30km,QUANTITY,,,en,1.9
-the tens of thousands,the tens of thousands,MONEY,,,en,1.9
-"February 3, 1863","February 3, 1863",DATE,,,en,1.9
-whumph,whumph,WORK_OF_ART,,,en,1.9
-700,700,CARDINAL,,,en,1.9
-8:03 pm UTC,8:03 pm UTC,TIME,,,en,1.9
-14 kilometers,14 kilometers,QUANTITY,,,en,1.9
-July 1,July 1,DATE,,,en,1.9
-at least 700,at least 700,CARDINAL,,,en,1.9
-Two days,Two days,DATE,,,en,1.9
-125 kilometers,125 kilometers,QUANTITY,,,en,1.9
-Fukushima Nuclear Plant,Fukushima Nuclear Plant,FAC,,,en,1.9
-32 hours,32 hours,TIME,,,en,1.9
-the Happiest Place on Earth,the Happiest Place on Earth,FAC,,,en,1.9
-74 miles,74 miles,QUANTITY,,,en,1.9
-at least 6,at least 6,CARDINAL,,,en,1.9
-only 4.74 years,only 4.74 years,DATE,,,en,1.9
-at least six,at least six,CARDINAL,,,en,1.9
-more than 30,more than 30,CARDINAL,,,en,1.9
+"almost 1,500","almost 1,500",CARDINAL,,,en,1.9
 "at least 50,000","at least 50,000",CARDINAL,,,en,1.9
 +2661,+2661,NORP,,,en,1.9
 Mesoamerican,Mesoamerican,NORP,,,en,1.9
@@ -811,7 +767,51 @@ about 300,about 300,CARDINAL,,,en,1.9
 nearly 15 years,nearly 15 years,DATE,,,en,1.9
 the past 24 hours,the past 24 hours,TIME,,,en,1.9
 July 19,July 19,DATE,,,en,1.9
-"almost 1,500","almost 1,500",CARDINAL,,,en,1.9
+18 km,18 km,QUANTITY,,,en,1.9
+the tens of thousands,the tens of thousands,MONEY,,,en,1.9
+more than 30,more than 30,CARDINAL,,,en,1.9
+the New Madrid Seismic Zone,the New Madrid Seismic Zone,FAC,,,en,1.9
+Andean,Andean,NORP,,,en,1.9
+"more than 16,700","more than 16,700",CARDINAL,,,en,1.9
+the minute,the minute,TIME,,,en,1.9
+7:31 a.m.,7:31 a.m.,TIME,,,en,1.9
+"February 7, 1812","February 7, 1812",DATE,,,en,1.9
+At least two,At least two,CARDINAL,,,en,1.9
+a month,a month,DATE,,,en,1.9
+Feb. 23,Feb. 23,DATE,,,en,1.9
+"at least 1,000 years","at least 1,000 years",DATE,,,en,1.9
+Bay,Bay,NORP,,,en,1.9
+May 1,May 1,DATE,,,en,1.9
+2006,2006,DATE,,,en,1.9
+at least six,at least six,CARDINAL,,,en,1.9
+July 18,July 18,DATE,,,en,1.9
+14 kilometers,14 kilometers,QUANTITY,,,en,1.9
+96km,96km,QUANTITY,,,en,1.9
+Taiwans,Taiwans,NORP,,,en,1.9
+Molucca,Molucca,NORP,,,en,1.9
+Great Ocean Road,Great Ocean Road,FAC,,,en,1.9
+about 30km,about 30km,QUANTITY,,,en,1.9
+"February 3, 1863","February 3, 1863",DATE,,,en,1.9
+whumph,whumph,WORK_OF_ART,,,en,1.9
+the past two days,the past two days,DATE,,,en,1.9
+700,700,CARDINAL,,,en,1.9
+37.2 kilometers,37.2 kilometers,QUANTITY,,,en,1.9
+"February 3, 1931","February 3, 1931",DATE,,,en,1.9
+8:03 pm UTC,8:03 pm UTC,TIME,,,en,1.9
+July 1,July 1,DATE,,,en,1.9
+the Great Ocean Road,the Great Ocean Road,FAC,,,en,1.9
+at least 700,at least 700,CARDINAL,,,en,1.9
+Two days,Two days,DATE,,,en,1.9
+125 kilometers,125 kilometers,QUANTITY,,,en,1.9
+December 13,December 13,DATE,,,en,1.9
+Fukushima Nuclear Plant,Fukushima Nuclear Plant,FAC,,,en,1.9
+32 hours,32 hours,TIME,,,en,1.9
+the Happiest Place on Earth,the Happiest Place on Earth,FAC,,,en,1.9
+Apr 4,Apr 4,DATE,,,en,1.9
+74 miles,74 miles,QUANTITY,,,en,1.9
+at least 6,at least 6,CARDINAL,,,en,1.9
+only 4.74 years,only 4.74 years,DATE,,,en,1.9
+Dec 18,Dec 18,DATE,,,en,1.9
 "nearly 2,000","nearly 2,000",CARDINAL,,,en,1.9
 9 kilometers,9 kilometers,QUANTITY,,,en,1.9
 The year,The year,DATE,,,en,1.9
@@ -1528,9 +1528,9 @@ as over 200,as over 200,CARDINAL,,,en,1.0
 Venezuela Twin Earthquake Death Toll Reaches 589,Venezuela Twin Earthquake Death Toll Reaches 589,EVENT,,,en,1.0
 "51,000","51,000",CARDINAL,,,en,1.0
 nearly 30%,nearly 30%,PERCENT,,,en,1.0
+past decade,past decade,DATE,,,en,1.0
 thousands ho,thousands ho,QUANTITY,,,en,1.0
 nearly 190,nearly 190,CARDINAL,,,en,1.0
-past decade,past decade,DATE,,,en,1.0
 "Thursday, June 25, 2026","Thursday, June 25, 2026",DATE,,,en,1.0
 $1.25 million,$1.25 million,MONEY,,,en,1.0
 "more than 2,741","more than 2,741",CARDINAL,,,en,1.0
@@ -1996,11 +1996,11 @@ more than 2.5 billion,more than 2.5 billion,MONEY,,,en,1.0
 11.4 million,11.4 million,CARDINAL,,,en,1.0
 the past several days,the past several days,DATE,,,en,1.0
 La Guaira - Seismologists,La Guaira - Seismologists,FAC,,,en,1.0
-29 June 2026 -,29 June 2026 -,DATE,,,en,1.0
 +3691,+3691,NORP,,,en,1.0
 "Around 12,000","Around 12,000",CARDINAL,,,en,1.0
 "some 5,000","some 5,000",CARDINAL,,,en,1.0
 "at least 1,719","at least 1,719",CARDINAL,,,en,1.0
+29 June 2026 -,29 June 2026 -,DATE,,,en,1.0
 7th,7th,ORDINAL,,,en,1.0
 Civil Security Training and Intervention Regiment,Civil Security Training and Intervention Regiment,EVENT,,,en,1.0
 +3552,+3552,CARDINAL,,,en,1.0

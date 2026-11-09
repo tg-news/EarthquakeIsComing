@@ -6,7 +6,7 @@ NCS,NCS,ORG,-0.045516405667412434,0.21563199105145428,en,44.69999999999996
 AP,AP,ORG,0.06090733820686652,0.5480539262231482,en,42.39999999999998
 Trump,Trump,ORG,-0.06907284965703289,0.47911605673321933,en,41.899999999999956
 the U.S. Geological Survey,the U.S. Geological Survey,ORG,0.07503885003885012,0.3283702408702412,en,38.999999999999964
-UN,UN,ORG,0.03714305880454951,0.3145649036953386,en,32.19999999999998
+UN,UN,ORG,0.037143058804549496,0.3145649036953386,en,32.19999999999998
 NTT,NTT,ORG,0.01476793248945148,0.1574367088607596,en,31.599999999999984
 the US Geological Survey,the US Geological Survey,ORG,0.04230462519936207,0.30102339181286575,en,28.499999999999986
 the National Center for Seismology,the National Center for Seismology,ORG,-0.07378225381779888,0.27197867298578193,en,21.099999999999998
@@ -787,8 +787,8 @@ Digital News Management,Digital News Management,ORG,0.08333333333333333,0.0,en,1
 Digital News Agency,Digital News Agency,ORG,-0.1,0.0,en,1.0
 eBay,eBay,ORG,0.0,0.0,en,1.0
 EBay,EBay,ORG,0.1,0.0,en,1.0
-Breaking News,Breaking News,ORG,-0.1,0.0,en,1.0
 Fujifilm Evacuate Factory Workers,Fujifilm Evacuate Factory Workers,ORG,0.0,0.0,en,1.0
+Breaking News,Breaking News,ORG,-0.1,0.0,en,1.0
 SHTF,SHTF,ORG,-0.25,0.0,en,1.0
 Jazeera Venezuela Earthquakes Force a Grim Homecoming,Jazeera Venezuela Earthquakes Force a Grim Homecoming,ORG,-0.09116161616161618,0.0,en,1.0
 MigrantsThe New York Times Death,MigrantsThe New York Times Death,ORG,-0.09116161616161618,0.0,en,1.0
@@ -818,8 +818,8 @@ World Central Kitchen Is Serving Hope,World Central Kitchen Is Serving Hope,ORG,
 ARRL,ARRL,ORG,-0.07142857142857142,0.0,en,1.0
 Satellite Technology Is,Satellite Technology Is,ORG,0.0,0.0,en,1.0
 The World Health Organization,The World Health Organization,ORG,-0.05,0.0,en,1.0
-SF Giants,SF Giants,ORG,0.25,0.0,en,1.0
 UNOCHA - United Nations Office for the Coordination of Humanitarian Affairs,UNOCHA - United Nations Office for the Coordination of Humanitarian Affairs,ORG,-0.2,0.0,en,1.0
+SF Giants,SF Giants,ORG,0.25,0.0,en,1.0
 UNHCR - United Nations,UNHCR - United Nations,ORG,0.16,0.0,en,1.0
 "Refugees
 ","Refugees
